@@ -1,0 +1,156 @@
+@prefix : <http://www.ibm.com/timex#> .
+@prefix v: <http://ex.org/variable#> .
+
+v:0 :bi_mi_oi v:1 ;
+    :oi v:86,
+        v:90 .
+
+v:10 :b v:25 .
+
+v:12 :di v:71 ;
+    :eq_s_si v:55 .
+
+v:13 :di v:48 ;
+    :f v:99 ;
+    :fi v:29 ;
+    :oi v:85 .
+
+v:14 :si v:92 .
+
+v:15 :b_m_o v:17 ;
+    :b_m_o_di_fi v:23 ;
+    :bi_mi_oi v:57 ;
+    :d v:93 ;
+    :s v:32 .
+
+v:16 :eq_f_fi v:29 ;
+    :fi v:47,
+        v:60 ;
+    :m v:68 .
+
+v:18 :bi_mi_oi_d_f v:33 ;
+    :d v:56 ;
+    :m v:26 ;
+    :oi_d_f v:94 .
+
+v:19 :eq_f_fi v:90 ;
+    :o_d_s v:75 ;
+    :s v:73 .
+
+v:2 :eq_s_si v:71 ;
+    :o v:59 ;
+    :s v:34 .
+
+v:27 :eq_o_oi_d_di_s_si_f_fi v:78 .
+
+v:3 :eq v:20 ;
+    :eq_s_si v:32 .
+
+v:31 :bi_mi_oi v:40 ;
+    :fi v:63 ;
+    :si v:98 .
+
+v:35 :eq_f_fi v:43 .
+
+v:36 :eq_f_fi v:94 ;
+    :fi v:76 .
+
+v:37 :b v:38 .
+
+v:44 :eq_s_si v:71 ;
+    :mi v:64 .
+
+v:45 :o_d_s v:95 .
+
+v:5 :eq_bi_mi_o_oi_d_di_s_si_f_fi v:86 .
+
+v:51 :bi_mi_oi_di_si v:64 .
+
+v:52 :b v:90 ;
+    :b_m_o_d_s v:97 .
+
+v:7 :eq_b_m_o_oi_d_di_s_si_f_fi v:88 .
+
+v:77 :d v:97 .
+
+v:8 :b_m_o_d_s v:21 ;
+    :bi_mi_oi v:24 .
+
+v:9 :d v:65 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:46 .
+
+v:1 :bi_mi_oi_d_f v:68 .
+
+v:17 :b_m_o v:97 .
+
+v:20 :bi_mi_oi_d_f v:89 ;
+    :o_d_s v:40 .
+
+v:21 :eq_o_oi_d_di_s_si_f_fi v:62 .
+
+v:23 :bi_mi_oi v:53 ;
+    :o_d_s v:26 ;
+    :o_di_fi v:61 .
+
+v:25 :bi_mi_oi_d_f v:34 ;
+    :eq_o_oi_d_di_s_si_f_fi v:66 ;
+    :eq_s_si v:69 ;
+    :o_di_fi v:49 .
+
+v:33 :m v:68 .
+
+v:38 :eq_b_m_o_oi_d_di_s_si_f_fi v:53 ;
+    :o v:71 ;
+    :si v:94 .
+
+v:43 :eq_o_oi_d_di_s_si_f_fi v:67 .
+
+v:47 :fi v:93 .
+
+v:55 :bi_mi_oi v:60,
+        v:64 ;
+    :o_d_s v:68 .
+
+v:66 :bi_mi_oi v:97 ;
+    :oi_d_f v:68 .
+
+v:67 :si v:94 .
+
+v:78 :b_m_o_di_fi v:84 .
+
+v:89 :m v:93 .
+
+v:26 :bi v:79 .
+
+v:29 :eq_f_fi v:84 ;
+    :mi v:81 .
+
+v:32 :eq v:63 ;
+    :mi v:62 ;
+    :si v:81 .
+
+v:34 :fi v:79 ;
+    :oi v:53 .
+
+v:40 :b_m_o_d_s v:85 .
+
+v:61 :b v:91 ;
+    :d v:73 .
+
+v:62 :o v:82 .
+
+v:73 :bi_mi_oi_di_si v:90 .
+
+v:79 :eq_f_fi v:85 ;
+    :oi v:97 .
+
+v:53 :o v:93 ;
+    :oi_d_f v:60 .
+
+v:60 :o v:61 .
+
+v:64 :b_m_o_di_fi v:68 ;
+    :m v:88 .
+
+v:68 :b v:70 .
+

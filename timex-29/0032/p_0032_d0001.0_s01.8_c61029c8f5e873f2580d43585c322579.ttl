@@ -1,0 +1,29 @@
+@prefix : <http://www.ibm.com/timex#> .
+@prefix v: <http://ex.org/variable#> .
+
+v:1 :b v:10 ;
+    :bi v:23,
+        v:4 ;
+    :oi_d_f v:20 .
+
+v:18 :si v:27 .
+
+v:2 :f v:12 .
+
+v:5 :eq_s_si v:24 ;
+    :s v:17,
+        v:21 .
+
+v:6 :b_m_o_d_s v:28 ;
+    :m v:24 .
+
+v:17 :d v:29 .
+
+v:21 :oi_d_f v:25 .
+
+v:23 :o v:25 .
+
+v:4 :bi_mi_oi v:28 .
+
+v:28 :f v:31 .
+

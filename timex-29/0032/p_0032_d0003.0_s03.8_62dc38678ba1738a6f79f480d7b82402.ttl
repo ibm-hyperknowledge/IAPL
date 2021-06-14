@@ -1,0 +1,74 @@
+@prefix : <http://www.ibm.com/timex#> .
+@prefix v: <http://ex.org/variable#> .
+
+v:0 :d v:10 ;
+    :eq_o_oi_d_di_s_si_f_fi v:23,
+        v:29 ;
+    :eq_s_si v:1 ;
+    :oi_di_si v:26 .
+
+v:13 :eq_o_oi_d_di_s_si_f_fi v:30 .
+
+v:14 :d v:27 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:23 .
+
+v:15 :di v:21 ;
+    :oi_d_f v:16 .
+
+v:17 :s v:24 .
+
+v:2 :b_m_o_di_fi v:16 ;
+    :eq v:4 .
+
+v:20 :bi_mi_oi_d_f v:31 .
+
+v:3 :b_m_o_d_s v:31 ;
+    :fi v:7 .
+
+v:5 :d v:30 ;
+    :di v:9 ;
+    :fi v:12,
+        v:22 .
+
+v:6 :eq v:11 ;
+    :eq_bi_mi_o_oi_d_di_s_si_f_fi v:24 ;
+    :eq_o_oi_d_di_s_si_f_fi v:31 ;
+    :mi v:9 .
+
+v:8 :o_d_s v:30 ;
+    :oi v:23 .
+
+v:1 :eq_f_fi v:19 ;
+    :o_d_s v:23 .
+
+v:10 :b_m_o_d_s v:27 ;
+    :bi_mi_oi_d_f v:26 .
+
+v:4 :b_m_o v:12 ;
+    :di v:16 .
+
+v:7 :eq_o_oi_d_di_s_si_f_fi v:30 ;
+    :o_d_s v:25 .
+
+v:19 :eq v:22 ;
+    :eq_o_oi_d_di_s_si_f_fi v:24 .
+
+v:22 :d v:31 ;
+    :oi_d_f v:29 ;
+    :s v:25 .
+
+v:9 :bi_mi_oi_d_f v:19 ;
+    :di v:16 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:25 ;
+    :o_di_fi v:12 .
+
+v:12 :d v:26 .
+
+v:24 :o_d_s v:30 .
+
+v:16 :oi_d_f v:25 .
+
+v:23 :fi v:28 .
+
+v:30 :eq_o_oi_d_di_s_si_f_fi v:31 .
+

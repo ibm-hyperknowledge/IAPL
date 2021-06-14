@@ -1,0 +1,39 @@
+@prefix : <http://www.intelligence.tuc.gr/~batsakis/Interval-based#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+:0 a owl:NamedIndividual ;
+    :b :3 ;
+    :d_oi_f :5 ;
+    :m :4 ;
+    :mi :7 .
+
+:1 a owl:NamedIndividual ;
+    :a_oi_mi :4 ;
+    :m :3 .
+
+:2 a owl:NamedIndividual .
+
+:a_d_oi_mi_f a owl:ObjectProperty .
+
+:a_oi_mi a owl:ObjectProperty .
+
+:b a owl:ObjectProperty .
+
+:d_oi_f a owl:ObjectProperty .
+
+:m a owl:ObjectProperty .
+
+:mi a owl:ObjectProperty .
+
+:6 a owl:NamedIndividual .
+
+:7 a owl:NamedIndividual .
+
+:3 a owl:NamedIndividual .
+
+:4 a owl:NamedIndividual ;
+    :a_d_oi_mi_f :6 ;
+    :d_oi_f :5 .
+
+:5 a owl:NamedIndividual .
+

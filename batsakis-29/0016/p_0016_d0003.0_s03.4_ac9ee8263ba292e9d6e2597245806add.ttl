@@ -1,0 +1,91 @@
+@prefix : <http://www.intelligence.tuc.gr/~batsakis/Interval-based#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+:0 a owl:NamedIndividual ;
+    :a :3 ;
+    :a_d_oi_mi_f :8 ;
+    :m :15 .
+
+:1 a owl:NamedIndividual ;
+    :b_d_ov_m_s :7 ;
+    :f_fi_eq :3 .
+
+:2 a owl:NamedIndividual ;
+    :d :4 ;
+    :d_di_ov_oi_s_si_f_fi_eq :15 ;
+    :d_oi_f :3 ;
+    :f :14 .
+
+:5 a owl:NamedIndividual ;
+    :b_d_ov_m_s :8 .
+
+:9 a owl:NamedIndividual ;
+    :m :11 .
+
+:a a owl:ObjectProperty .
+
+:a_d_di_ov_oi_mi_s_si_f_fi_eq a owl:ObjectProperty .
+
+:a_d_oi_mi_f a owl:ObjectProperty .
+
+:b_d_ov_m_s a owl:ObjectProperty .
+
+:b_di_ov_m_fi a owl:ObjectProperty .
+
+:d a owl:ObjectProperty .
+
+:d_di_ov_oi_s_si_f_fi_eq a owl:ObjectProperty .
+
+:d_oi_f a owl:ObjectProperty .
+
+:di_oi_si a owl:ObjectProperty .
+
+:di_ov_fi a owl:ObjectProperty .
+
+:f a owl:ObjectProperty .
+
+:f_fi_eq a owl:ObjectProperty .
+
+:fi a owl:ObjectProperty .
+
+:m a owl:ObjectProperty .
+
+:s_si_eq a owl:ObjectProperty .
+
+:si a owl:ObjectProperty .
+
+:10 a owl:NamedIndividual .
+
+:12 a owl:NamedIndividual .
+
+:13 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :15 .
+
+:4 a owl:NamedIndividual ;
+    :b_di_ov_m_fi :11 ;
+    :di_oi_si :14 ;
+    :fi :7 ;
+    :si :12 .
+
+:6 a owl:NamedIndividual ;
+    :d_di_ov_oi_s_si_f_fi_eq :14 .
+
+:8 a owl:NamedIndividual ;
+    :a :11 ;
+    :fi :15 ;
+    :s_si_eq :10 .
+
+:14 a owl:NamedIndividual .
+
+:3 a owl:NamedIndividual ;
+    :d_oi_f :7 ;
+    :di_ov_fi :13 ;
+    :m :6 .
+
+:7 a owl:NamedIndividual ;
+    :a_d_oi_mi_f :11 .
+
+:11 a owl:NamedIndividual .
+
+:15 a owl:NamedIndividual .
+

@@ -1,0 +1,111 @@
+@prefix : <http://www.ibm.com/timex#> .
+@prefix v: <http://ex.org/variable#> .
+
+v:0 :b_m_o v:8 ;
+    :b_m_o_d_s v:6 ;
+    :b_m_o_di_fi v:13,
+        v:17 ;
+    :bi_mi_oi v:11 ;
+    :eq_bi_mi_o_oi_d_di_s_si_f_fi v:12 ;
+    :f v:10 ;
+    :mi v:7 ;
+    :oi_di_si v:1,
+        v:5 .
+
+v:1 :b_m_o v:2 ;
+    :bi_mi_oi v:17 ;
+    :bi_mi_oi_d_f v:9 ;
+    :bi_mi_oi_di_si v:7 ;
+    :o_d_s v:18 ;
+    :oi_d_f v:14 ;
+    :s v:15 ;
+    :si v:4 .
+
+v:2 :bi_mi_oi_di_si v:17 ;
+    :d v:11,
+        v:12,
+        v:13,
+        v:19 ;
+    :eq v:3 ;
+    :eq_f_fi v:14,
+        v:5 ;
+    :m v:8 ;
+    :mi v:15 ;
+    :oi_d_f v:10 .
+
+v:3 :bi_mi_oi_d_f v:17,
+        v:7,
+        v:9 ;
+    :d v:16 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:11,
+        v:12 ;
+    :eq_bi_mi_o_oi_d_di_s_si_f_fi v:4,
+        v:5 .
+
+v:4 :eq_b_m_o_oi_d_di_s_si_f_fi v:6 ;
+    :eq_o_oi_d_di_s_si_f_fi v:14 ;
+    :eq_s_si v:5 ;
+    :oi_d_f v:19 ;
+    :s v:15 .
+
+v:13 :di v:14 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:17 ;
+    :o_d_s v:16 .
+
+v:6 :bi_mi_oi_di_si v:8 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:14 ;
+    :fi v:18 ;
+    :oi_d_f v:15 .
+
+v:9 :b v:11,
+        v:12,
+        v:13,
+        v:18 ;
+    :b_m_o_di_fi v:10 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:17 ;
+    :m v:16 .
+
+v:10 :bi_mi_oi_di_si v:11 ;
+    :eq v:16 ;
+    :o v:12 ;
+    :o_d_s v:19 .
+
+v:5 :b_m_o v:6 ;
+    :bi_mi_oi_d_f v:10 ;
+    :bi_mi_oi_di_si v:17,
+        v:7 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:11,
+        v:14,
+        v:8 ;
+    :o_di_fi v:18 .
+
+v:7 :b v:8 ;
+    :b_m_o_di_fi v:16 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:19 .
+
+v:15 :o v:18 ;
+    :o_d_s v:19 .
+
+v:8 :bi v:9 ;
+    :bi_mi_oi_di_si v:14,
+        v:17 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:16 ;
+    :oi_di_si v:12 .
+
+v:11 :eq_b_m_o_oi_d_di_s_si_f_fi v:14 ;
+    :o_d_s v:12 ;
+    :oi_d_f v:16 .
+
+v:12 :b_m_o_di_fi v:15 ;
+    :bi_mi_oi v:17 ;
+    :si v:19 .
+
+v:14 :bi_mi_oi_d_f v:16 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:19 ;
+    :mi v:17 ;
+    :o_d_s v:18 .
+
+v:16 :eq_bi_mi_o_oi_d_di_s_si_f_fi v:19 .
+
+v:17 :b_m_o v:19 .
+

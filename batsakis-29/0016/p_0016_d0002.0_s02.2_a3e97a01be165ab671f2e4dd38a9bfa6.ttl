@@ -1,0 +1,75 @@
+@prefix : <http://www.intelligence.tuc.gr/~batsakis/Interval-based#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+:0 a owl:NamedIndividual ;
+    :a_oi_mi :7 ;
+    :eq :15 .
+
+:1 a owl:NamedIndividual ;
+    :d_ov_s :9 .
+
+:12 a owl:NamedIndividual .
+
+:2 a owl:NamedIndividual ;
+    :a_oi_mi :13 ;
+    :di_oi_si :3 ;
+    :m :8 .
+
+:4 a owl:NamedIndividual .
+
+:5 a owl:NamedIndividual ;
+    :a :11 ;
+    :s_si_eq :6 .
+
+:a a owl:ObjectProperty .
+
+:a_oi_mi a owl:ObjectProperty .
+
+:b_di_ov_m_fi a owl:ObjectProperty .
+
+:d a owl:ObjectProperty .
+
+:d_ov_s a owl:ObjectProperty .
+
+:di_oi_si a owl:ObjectProperty .
+
+:eq a owl:ObjectProperty .
+
+:f a owl:ObjectProperty .
+
+:m a owl:ObjectProperty .
+
+:oi a owl:ObjectProperty .
+
+:ov a owl:ObjectProperty .
+
+:s_si_eq a owl:ObjectProperty .
+
+:10 a owl:NamedIndividual .
+
+:11 a owl:NamedIndividual .
+
+:3 a owl:NamedIndividual ;
+    :b_di_ov_m_fi :7 .
+
+:6 a owl:NamedIndividual ;
+    :f :14 ;
+    :oi :13 ;
+    :ov :9 .
+
+:8 a owl:NamedIndividual ;
+    :a_oi_mi :10 ;
+    :b_di_ov_m_fi :15 .
+
+:13 a owl:NamedIndividual ;
+    :d :14 .
+
+:14 a owl:NamedIndividual .
+
+:7 a owl:NamedIndividual .
+
+:9 a owl:NamedIndividual ;
+    :d :15 .
+
+:15 a owl:NamedIndividual .
+

@@ -1,0 +1,230 @@
+@prefix : <http://www.intelligence.tuc.gr/~batsakis/Interval-based#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+:0 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :34 ;
+    :d :12 ;
+    :f_fi_eq :10 ;
+    :m :36 .
+
+:1 a owl:NamedIndividual ;
+    :di :48 ;
+    :di_oi_si :20 ;
+    :f_fi_eq :17 .
+
+:11 a owl:NamedIndividual ;
+    :d_ov_s :19 ;
+    :di_oi_si :20 ;
+    :s :31 .
+
+:15 a owl:NamedIndividual ;
+    :f_fi_eq :39 ;
+    :oi :17 .
+
+:16 a owl:NamedIndividual ;
+    :a_di_oi_mi_si :18 ;
+    :a_oi_mi :24 ;
+    :fi :46 ;
+    :s_si_eq :38 .
+
+:2 a owl:NamedIndividual ;
+    :b_ov_m :12 .
+
+:22 a owl:NamedIndividual ;
+    :a_d_oi_mi_f :47 ;
+    :m :46 .
+
+:23 a owl:NamedIndividual ;
+    :b_ov_m :26 .
+
+:28 a owl:NamedIndividual ;
+    :d :37 ;
+    :ov :45 .
+
+:3 a owl:NamedIndividual ;
+    :b :46 ;
+    :di_oi_si :25 ;
+    :f :47 .
+
+:32 a owl:NamedIndividual .
+
+:33 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :41 ;
+    :a_d_oi_mi_f :38 .
+
+:4 a owl:NamedIndividual ;
+    :a :27 ;
+    :d :45 ;
+    :di_ov_fi :14 .
+
+:5 a owl:NamedIndividual ;
+    :s :18 .
+
+:6 a owl:NamedIndividual ;
+    :b :42 ;
+    :di_oi_si :21 .
+
+:7 a owl:NamedIndividual ;
+    :di_oi_si :14 ;
+    :oi :25 .
+
+:8 a owl:NamedIndividual ;
+    :di_ov_fi :10,
+        :13 .
+
+:9 a owl:NamedIndividual ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :24 ;
+    :d_di_ov_oi_s_si_f_fi_eq :31 ;
+    :oi :41 .
+
+:a a owl:ObjectProperty .
+
+:a_d_di_ov_oi_mi_s_si_f_fi_eq a owl:ObjectProperty .
+
+:a_d_oi_mi_f a owl:ObjectProperty .
+
+:a_di_oi_mi_si a owl:ObjectProperty .
+
+:a_oi_mi a owl:ObjectProperty .
+
+:b a owl:ObjectProperty .
+
+:b_d_di_ov_oi_m_s_si_f_fi_eq a owl:ObjectProperty .
+
+:b_d_ov_m_s a owl:ObjectProperty .
+
+:b_ov_m a owl:ObjectProperty .
+
+:d a owl:ObjectProperty .
+
+:d_di_ov_oi_s_si_f_fi_eq a owl:ObjectProperty .
+
+:d_oi_f a owl:ObjectProperty .
+
+:d_ov_s a owl:ObjectProperty .
+
+:di a owl:ObjectProperty .
+
+:di_oi_si a owl:ObjectProperty .
+
+:di_ov_fi a owl:ObjectProperty .
+
+:eq a owl:ObjectProperty .
+
+:f a owl:ObjectProperty .
+
+:f_fi_eq a owl:ObjectProperty .
+
+:fi a owl:ObjectProperty .
+
+:m a owl:ObjectProperty .
+
+:oi a owl:ObjectProperty .
+
+:ov a owl:ObjectProperty .
+
+:s a owl:ObjectProperty .
+
+:s_si_eq a owl:ObjectProperty .
+
+:si a owl:ObjectProperty .
+
+:13 a owl:NamedIndividual ;
+    :d :24 ;
+    :di_oi_si :17 ;
+    :f_fi_eq :25 .
+
+:21 a owl:NamedIndividual ;
+    :a_di_oi_mi_si :49 ;
+    :f_fi_eq :46 .
+
+:27 a owl:NamedIndividual .
+
+:29 a owl:NamedIndividual ;
+    :a_di_oi_mi_si :41 ;
+    :eq :45 .
+
+:35 a owl:NamedIndividual .
+
+:36 a owl:NamedIndividual ;
+    :b_ov_m :42 .
+
+:37 a owl:NamedIndividual ;
+    :eq :47 .
+
+:39 a owl:NamedIndividual .
+
+:40 a owl:NamedIndividual ;
+    :a_oi_mi :43 .
+
+:43 a owl:NamedIndividual .
+
+:44 a owl:NamedIndividual .
+
+:49 a owl:NamedIndividual .
+
+:10 a owl:NamedIndividual ;
+    :s :30 .
+
+:12 a owl:NamedIndividual ;
+    :d_oi_f :19 ;
+    :m :42 .
+
+:14 a owl:NamedIndividual ;
+    :d_ov_s :34 ;
+    :di :46 ;
+    :oi :30 .
+
+:18 a owl:NamedIndividual ;
+    :a_di_oi_mi_si :24 .
+
+:19 a owl:NamedIndividual ;
+    :a :26 .
+
+:20 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :24 ;
+    :a_oi_mi :48 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :26 ;
+    :b_d_ov_m_s :47 ;
+    :d :34 ;
+    :oi :29 .
+
+:31 a owl:NamedIndividual ;
+    :a :35 .
+
+:38 a owl:NamedIndividual ;
+    :eq :47 ;
+    :si :48 .
+
+:17 a owl:NamedIndividual ;
+    :d_di_ov_oi_s_si_f_fi_eq :30 ;
+    :di_oi_si :45 ;
+    :si :44 .
+
+:25 a owl:NamedIndividual ;
+    :a_di_oi_mi_si :40 .
+
+:26 a owl:NamedIndividual ;
+    :eq :41 .
+
+:30 a owl:NamedIndividual .
+
+:42 a owl:NamedIndividual .
+
+:34 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :48 .
+
+:41 a owl:NamedIndividual .
+
+:45 a owl:NamedIndividual .
+
+:48 a owl:NamedIndividual .
+
+:24 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :47 ;
+    :ov :34 .
+
+:46 a owl:NamedIndividual .
+
+:47 a owl:NamedIndividual .
+

@@ -1,0 +1,3634 @@
+@prefix : <http://www.intelligence.tuc.gr/~batsakis/Interval-based#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+:0 a owl:NamedIndividual ;
+    :a :16 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :122,
+        :123,
+        :129,
+        :4,
+        :58,
+        :7,
+        :74 ;
+    :a_d_oi_mi_f :107,
+        :113,
+        :120,
+        :126,
+        :73,
+        :79 ;
+    :a_di_oi_mi_si :69 ;
+    :a_oi_mi :103,
+        :20,
+        :48,
+        :50,
+        :72,
+        :81,
+        :86 ;
+    :b :101,
+        :117 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :35,
+        :65 ;
+    :b_d_ov_m_s :29,
+        :61,
+        :68,
+        :94 ;
+    :b_di_ov_m_fi :47,
+        :67 ;
+    :b_ov_m :104,
+        :42,
+        :84 ;
+    :d :115,
+        :121,
+        :15,
+        :99 ;
+    :d_di_ov_oi_s_si_f_fi_eq :45,
+        :89 ;
+    :d_oi_f :102,
+        :63 ;
+    :d_ov_s :17 ;
+    :eq :14 ;
+    :f :57 ;
+    :m :39 .
+
+:1 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :121,
+        :30 ;
+    :a_d_oi_mi_f :28 ;
+    :b :26,
+        :29,
+        :39,
+        :94 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :117,
+        :13,
+        :76,
+        :84 ;
+    :b_d_ov_m_s :21,
+        :88,
+        :91,
+        :98,
+        :99 ;
+    :b_di_ov_m_fi :105,
+        :108,
+        :27,
+        :64,
+        :68 ;
+    :b_ov_m :10,
+        :102 ;
+    :d_di_ov_oi_s_si_f_fi_eq :63,
+        :69,
+        :95 ;
+    :d_ov_s :4,
+        :54 ;
+    :di :48,
+        :79,
+        :87 ;
+    :di_oi_si :107,
+        :18,
+        :19,
+        :8,
+        :92 ;
+    :di_ov_fi :109,
+        :115,
+        :33,
+        :50,
+        :59,
+        :97 ;
+    :f_fi_eq :110 ;
+    :fi :62,
+        :96 ;
+    :ov :22,
+        :57 ;
+    :s_si_eq :73 ;
+    :si :20 .
+
+:2 a owl:NamedIndividual ;
+    :a :20 ;
+    :b :103,
+        :109,
+        :21,
+        :34,
+        :38,
+        :43,
+        :69,
+        :71,
+        :9,
+        :90 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :105,
+        :110,
+        :111,
+        :123,
+        :35,
+        :45,
+        :57,
+        :88,
+        :96,
+        :98 ;
+    :b_d_ov_m_s :104,
+        :108,
+        :114,
+        :120,
+        :126,
+        :14,
+        :28,
+        :42,
+        :54,
+        :58,
+        :91 ;
+    :b_di_ov_m_fi :113,
+        :23,
+        :29,
+        :32,
+        :36,
+        :39,
+        :63,
+        :64,
+        :65 ;
+    :b_ov_m :112,
+        :22,
+        :41,
+        :50,
+        :89 ;
+    :d :60,
+        :83 ;
+    :d_di_ov_oi_s_si_f_fi_eq :70 ;
+    :d_oi_f :121,
+        :6,
+        :87 ;
+    :f :79 ;
+    :s_si_eq :107 .
+
+:3 a owl:NamedIndividual ;
+    :a :113,
+        :20 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :109,
+        :122,
+        :34,
+        :8,
+        :86 ;
+    :a_d_oi_mi_f :111,
+        :44,
+        :57,
+        :78,
+        :95 ;
+    :a_di_oi_mi_si :107,
+        :114,
+        :50,
+        :68,
+        :72 ;
+    :a_oi_mi :24,
+        :79,
+        :85,
+        :97 ;
+    :b :67 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :106,
+        :27,
+        :4,
+        :46,
+        :53 ;
+    :b_d_ov_m_s :105,
+        :28 ;
+    :b_di_ov_m_fi :117,
+        :119,
+        :26,
+        :51 ;
+    :b_ov_m :84 ;
+    :d_di_ov_oi_s_si_f_fi_eq :80,
+        :82,
+        :83 ;
+    :d_oi_f :61,
+        :63,
+        :65,
+        :89 ;
+    :d_ov_s :123,
+        :41,
+        :98 ;
+    :f_fi_eq :45 ;
+    :mi :124 ;
+    :si :14 .
+
+:a a owl:ObjectProperty .
+
+:a_d_di_ov_oi_mi_s_si_f_fi_eq a owl:ObjectProperty .
+
+:a_d_oi_mi_f a owl:ObjectProperty .
+
+:a_di_oi_mi_si a owl:ObjectProperty .
+
+:a_oi_mi a owl:ObjectProperty .
+
+:b a owl:ObjectProperty .
+
+:b_d_di_ov_oi_m_s_si_f_fi_eq a owl:ObjectProperty .
+
+:b_d_ov_m_s a owl:ObjectProperty .
+
+:b_di_ov_m_fi a owl:ObjectProperty .
+
+:b_ov_m a owl:ObjectProperty .
+
+:d a owl:ObjectProperty .
+
+:d_di_ov_oi_s_si_f_fi_eq a owl:ObjectProperty .
+
+:d_oi_f a owl:ObjectProperty .
+
+:d_ov_s a owl:ObjectProperty .
+
+:di a owl:ObjectProperty .
+
+:di_oi_si a owl:ObjectProperty .
+
+:di_ov_fi a owl:ObjectProperty .
+
+:eq a owl:ObjectProperty .
+
+:f a owl:ObjectProperty .
+
+:f_fi_eq a owl:ObjectProperty .
+
+:fi a owl:ObjectProperty .
+
+:m a owl:ObjectProperty .
+
+:mi a owl:ObjectProperty .
+
+:oi a owl:ObjectProperty .
+
+:ov a owl:ObjectProperty .
+
+:s a owl:ObjectProperty .
+
+:s_si_eq a owl:ObjectProperty .
+
+:si a owl:ObjectProperty .
+
+:11 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :22 ;
+    :b :16,
+        :67,
+        :75,
+        :76,
+        :81 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :21,
+        :23,
+        :32,
+        :40,
+        :43,
+        :50,
+        :59,
+        :66,
+        :98 ;
+    :b_d_ov_m_s :103,
+        :109,
+        :119,
+        :123,
+        :18,
+        :24,
+        :72,
+        :92 ;
+    :b_di_ov_m_fi :120,
+        :128,
+        :17,
+        :39,
+        :49,
+        :54,
+        :65,
+        :90,
+        :97 ;
+    :b_ov_m :13,
+        :33,
+        :74,
+        :78,
+        :88,
+        :89,
+        :93 ;
+    :di :86 ;
+    :di_oi_si :107 ;
+    :di_ov_fi :114,
+        :20,
+        :44,
+        :70,
+        :77 ;
+    :f_fi_eq :64 ;
+    :m :61 ;
+    :ov :121,
+        :38 .
+
+:5 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :114,
+        :121,
+        :22,
+        :24 ;
+    :a_di_oi_mi_si :23 ;
+    :b :102,
+        :108,
+        :110,
+        :115,
+        :123,
+        :127,
+        :59 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :116,
+        :12,
+        :66,
+        :78,
+        :79 ;
+    :b_d_ov_m_s :37,
+        :47,
+        :49,
+        :55,
+        :72,
+        :90,
+        :92 ;
+    :b_di_ov_m_fi :15,
+        :16,
+        :54,
+        :82 ;
+    :b_ov_m :101,
+        :105,
+        :118,
+        :13,
+        :74,
+        :81,
+        :84 ;
+    :d_di_ov_oi_s_si_f_fi_eq :18,
+        :20 ;
+    :di_oi_si :64 ;
+    :di_ov_fi :32,
+        :60,
+        :97 ;
+    :fi :113 ;
+    :m :120 ;
+    :ov :30,
+        :63 ;
+    :s_si_eq :83 .
+
+:6 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :127,
+        :30,
+        :97 ;
+    :a_di_oi_mi_si :37,
+        :68 ;
+    :b :101,
+        :84 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :13,
+        :23 ;
+    :b_d_ov_m_s :28,
+        :42,
+        :75 ;
+    :b_di_ov_m_fi :116,
+        :128,
+        :129,
+        :21,
+        :36,
+        :44,
+        :78,
+        :89,
+        :96 ;
+    :b_ov_m :104,
+        :115,
+        :126,
+        :52,
+        :67,
+        :94 ;
+    :d_di_ov_oi_s_si_f_fi_eq :118,
+        :119,
+        :50,
+        :55,
+        :63,
+        :80 ;
+    :d_ov_s :106,
+        :83 ;
+    :di :113,
+        :24 ;
+    :di_oi_si :34,
+        :59 ;
+    :di_ov_fi :103,
+        :122,
+        :18,
+        :19,
+        :22,
+        :49,
+        :58,
+        :72,
+        :92 ;
+    :fi :45 ;
+    :ov :112 .
+
+:7 a owl:NamedIndividual ;
+    :a :55,
+        :76 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :22,
+        :52,
+        :68,
+        :86 ;
+    :a_d_oi_mi_f :78,
+        :91 ;
+    :a_di_oi_mi_si :109,
+        :18 ;
+    :a_oi_mi :11,
+        :113,
+        :50 ;
+    :b :112,
+        :75 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :54,
+        :93,
+        :95 ;
+    :b_d_ov_m_s :15,
+        :33,
+        :51,
+        :70 ;
+    :b_di_ov_m_fi :104,
+        :43,
+        :94 ;
+    :b_ov_m :105,
+        :108,
+        :35,
+        :42,
+        :47,
+        :88 ;
+    :d :128,
+        :21,
+        :61 ;
+    :d_di_ov_oi_s_si_f_fi_eq :19,
+        :48 ;
+    :d_oi_f :110,
+        :116,
+        :41,
+        :44,
+        :59,
+        :62,
+        :74,
+        :83,
+        :92 ;
+    :d_ov_s :106,
+        :115,
+        :63 ;
+    :di_ov_fi :9 ;
+    :f_fi_eq :81 .
+
+:12 a owl:NamedIndividual ;
+    :a :13,
+        :48,
+        :49,
+        :64,
+        :74,
+        :87,
+        :96 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :102,
+        :20,
+        :31,
+        :83,
+        :92 ;
+    :a_d_oi_mi_f :103,
+        :118,
+        :121,
+        :129,
+        :71 ;
+    :a_di_oi_mi_si :30,
+        :34,
+        :55,
+        :81 ;
+    :a_oi_mi :16 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :128,
+        :47,
+        :68,
+        :84 ;
+    :b_d_ov_m_s :29,
+        :54,
+        :67,
+        :70 ;
+    :b_di_ov_m_fi :101,
+        :26,
+        :88 ;
+    :b_ov_m :46,
+        :53 ;
+    :d :116,
+        :14,
+        :15,
+        :94 ;
+    :d_di_ov_oi_s_si_f_fi_eq :17,
+        :24 ;
+    :d_oi_f :28,
+        :36 ;
+    :d_ov_s :115,
+        :22,
+        :41 .
+
+:4 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :109,
+        :128,
+        :31,
+        :58,
+        :83 ;
+    :a_d_oi_mi_f :37,
+        :79 ;
+    :a_di_oi_mi_si :12,
+        :13,
+        :20,
+        :21,
+        :24,
+        :86 ;
+    :b :51,
+        :88 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :115,
+        :125,
+        :19 ;
+    :b_d_ov_m_s :10,
+        :101,
+        :27,
+        :33,
+        :84,
+        :89 ;
+    :b_di_ov_m_fi :112,
+        :39,
+        :50,
+        :75,
+        :81 ;
+    :b_ov_m :42 ;
+    :d :80 ;
+    :d_di_ov_oi_s_si_f_fi_eq :120,
+        :18,
+        :23,
+        :25,
+        :63,
+        :70 ;
+    :d_oi_f :5,
+        :60,
+        :95 ;
+    :d_ov_s :52,
+        :93 ;
+    :di :53,
+        :74,
+        :76,
+        :8,
+        :92,
+        :96 ;
+    :di_oi_si :72 ;
+    :di_ov_fi :34,
+        :38,
+        :56,
+        :9 ;
+    :f_fi_eq :119 ;
+    :ov :123,
+        :41,
+        :65 ;
+    :s :98 .
+
+:8 a owl:NamedIndividual ;
+    :a :107 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :10,
+        :114,
+        :15,
+        :22,
+        :31,
+        :65,
+        :86 ;
+    :a_d_oi_mi_f :68,
+        :83 ;
+    :a_di_oi_mi_si :113 ;
+    :b :112,
+        :117,
+        :127,
+        :39,
+        :9,
+        :91,
+        :99 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :103,
+        :123,
+        :25,
+        :51,
+        :52,
+        :58,
+        :61,
+        :94,
+        :97 ;
+    :b_d_ov_m_s :102,
+        :104,
+        :110,
+        :36,
+        :53,
+        :60 ;
+    :b_di_ov_m_fi :129,
+        :21 ;
+    :b_ov_m :115,
+        :118,
+        :14,
+        :47,
+        :89 ;
+    :d :18 ;
+    :d_di_ov_oi_s_si_f_fi_eq :28,
+        :30,
+        :34 ;
+    :d_oi_f :95 ;
+    :d_ov_s :63 ;
+    :di :23 ;
+    :di_ov_fi :72 ;
+    :fi :50 ;
+    :m :45,
+        :74,
+        :76 ;
+    :ov :24 ;
+    :s_si_eq :32 .
+
+:10 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :117,
+        :39,
+        :51,
+        :65,
+        :73,
+        :78,
+        :84,
+        :85,
+        :99 ;
+    :a_di_oi_mi_si :129 ;
+    :b :27 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :123,
+        :128,
+        :13,
+        :15,
+        :53,
+        :55,
+        :70,
+        :95 ;
+    :b_d_ov_m_s :22 ;
+    :b_di_ov_m_fi :115,
+        :79 ;
+    :b_ov_m :60 ;
+    :d_di_ov_oi_s_si_f_fi_eq :118,
+        :30,
+        :38,
+        :54,
+        :61 ;
+    :d_oi_f :20 ;
+    :d_ov_s :125 ;
+    :di :103,
+        :113,
+        :116,
+        :74 ;
+    :di_oi_si :45,
+        :68,
+        :72,
+        :83,
+        :92 ;
+    :di_ov_fi :12,
+        :16,
+        :17,
+        :18,
+        :40,
+        :69,
+        :80 ;
+    :m :75 ;
+    :ov :102,
+        :105,
+        :108 ;
+    :si :44 .
+
+:17 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :102,
+        :107,
+        :59,
+        :66,
+        :90 ;
+    :a_d_oi_mi_f :79 ;
+    :a_di_oi_mi_si :26,
+        :31,
+        :47,
+        :49,
+        :51 ;
+    :a_oi_mi :28,
+        :44,
+        :77,
+        :86,
+        :93 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :113,
+        :123,
+        :124,
+        :42,
+        :52,
+        :69,
+        :87,
+        :94,
+        :97 ;
+    :b_d_ov_m_s :101 ;
+    :b_di_ov_m_fi :53,
+        :67,
+        :72 ;
+    :b_ov_m :108 ;
+    :d_di_ov_oi_s_si_f_fi_eq :106,
+        :46,
+        :71,
+        :82,
+        :83 ;
+    :d_oi_f :100,
+        :111,
+        :54 ;
+    :di :120,
+        :27,
+        :50,
+        :58,
+        :89,
+        :92 ;
+    :di_oi_si :104,
+        :105,
+        :36,
+        :99 ;
+    :di_ov_fi :23,
+        :63,
+        :75 ;
+    :f :60 ;
+    :oi :30 ;
+    :si :129 .
+
+:9 a owl:NamedIndividual ;
+    :a :64,
+        :87 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :104,
+        :25 ;
+    :a_d_oi_mi_f :49,
+        :57,
+        :59,
+        :77,
+        :95 ;
+    :a_di_oi_mi_si :122,
+        :40,
+        :53,
+        :62,
+        :69,
+        :96 ;
+    :a_oi_mi :103,
+        :110,
+        :15 ;
+    :b :27 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :106,
+        :56 ;
+    :b_di_ov_m_fi :14,
+        :75,
+        :88 ;
+    :b_ov_m :117,
+        :125,
+        :47 ;
+    :d :32 ;
+    :d_di_ov_oi_s_si_f_fi_eq :10,
+        :126,
+        :52,
+        :58 ;
+    :d_oi_f :111,
+        :124,
+        :128,
+        :129 ;
+    :d_ov_s :54 ;
+    :di_oi_si :28,
+        :68,
+        :74 ;
+    :oi :89 ;
+    :ov :35 .
+
+:14 a owl:NamedIndividual ;
+    :a :107,
+        :69 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :102,
+        :106,
+        :109,
+        :124,
+        :19,
+        :23,
+        :31,
+        :37,
+        :54 ;
+    :a_d_oi_mi_f :28,
+        :34,
+        :49,
+        :50,
+        :57,
+        :59 ;
+    :a_di_oi_mi_si :110,
+        :113,
+        :55,
+        :64,
+        :86 ;
+    :a_oi_mi :114,
+        :120,
+        :16,
+        :72,
+        :92 ;
+    :b :42,
+        :67 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :104,
+        :105,
+        :108,
+        :40,
+        :43,
+        :52 ;
+    :b_d_ov_m_s :117,
+        :119,
+        :15,
+        :89,
+        :98 ;
+    :b_ov_m :66,
+        :90 ;
+    :d :44 ;
+    :d_oi_f :91 ;
+    :d_ov_s :116,
+        :32,
+        :65,
+        :68 ;
+    :di_oi_si :127,
+        :82 ;
+    :f :24 .
+
+:16 a owl:NamedIndividual ;
+    :a :107 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :23 ;
+    :a_d_oi_mi_f :32,
+        :57,
+        :73,
+        :95,
+        :97 ;
+    :a_di_oi_mi_si :34 ;
+    :a_oi_mi :113 ;
+    :b :115,
+        :117,
+        :29 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :101,
+        :114,
+        :121,
+        :124,
+        :58,
+        :70 ;
+    :b_d_ov_m_s :112,
+        :128,
+        :39,
+        :48 ;
+    :b_di_ov_m_fi :104,
+        :43,
+        :76 ;
+    :b_ov_m :105,
+        :118,
+        :119,
+        :75,
+        :81,
+        :91 ;
+    :d :31 ;
+    :d_di_ov_oi_s_si_f_fi_eq :82 ;
+    :d_oi_f :98 ;
+    :eq :50 ;
+    :m :116,
+        :25 ;
+    :s_si_eq :49 .
+
+:19 a owl:NamedIndividual ;
+    :a :85 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :123,
+        :73,
+        :76 ;
+    :a_d_oi_mi_f :120,
+        :28,
+        :62,
+        :70,
+        :79,
+        :91 ;
+    :a_di_oi_mi_si :50,
+        :87,
+        :92 ;
+    :a_oi_mi :122,
+        :34 ;
+    :b :51,
+        :88,
+        :90 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :114,
+        :35,
+        :45,
+        :48 ;
+    :b_d_ov_m_s :36,
+        :47,
+        :59 ;
+    :b_di_ov_m_fi :66 ;
+    :b_ov_m :106,
+        :108 ;
+    :d :102,
+        :21,
+        :41,
+        :68,
+        :80,
+        :89 ;
+    :d_oi_f :118,
+        :124,
+        :22,
+        :25,
+        :55,
+        :60,
+        :63,
+        :83,
+        :97 ;
+    :d_ov_s :31 ;
+    :di_oi_si :109 ;
+    :oi :129 ;
+    :s :110 .
+
+:13 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :116,
+        :121,
+        :15,
+        :74 ;
+    :a_d_oi_mi_f :107,
+        :57,
+        :83,
+        :93,
+        :98 ;
+    :a_oi_mi :113,
+        :79,
+        :86 ;
+    :b :26,
+        :62,
+        :78 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :24,
+        :44,
+        :69 ;
+    :b_d_ov_m_s :103,
+        :108,
+        :111,
+        :117,
+        :21,
+        :32,
+        :38,
+        :55,
+        :59,
+        :75,
+        :81,
+        :82,
+        :92 ;
+    :b_di_ov_m_fi :110,
+        :27,
+        :42,
+        :53 ;
+    :b_ov_m :112,
+        :58,
+        :84,
+        :96 ;
+    :d :80 ;
+    :d_di_ov_oi_s_si_f_fi_eq :128 ;
+    :d_oi_f :72 ;
+    :d_ov_s :118,
+        :129,
+        :40 ;
+    :di_ov_fi :36 ;
+    :ov :126 ;
+    :s_si_eq :23,
+        :49,
+        :65 .
+
+:18 a owl:NamedIndividual ;
+    :a :20 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :116,
+        :58,
+        :76,
+        :80 ;
+    :a_d_oi_mi_f :44,
+        :57,
+        :61,
+        :86 ;
+    :a_di_oi_mi_si :122,
+        :73 ;
+    :a_oi_mi :107 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :103,
+        :118,
+        :22,
+        :97 ;
+    :b_d_ov_m_s :101,
+        :105,
+        :108,
+        :125,
+        :36,
+        :46,
+        :54,
+        :56,
+        :75,
+        :95,
+        :98 ;
+    :b_di_ov_m_fi :24,
+        :26,
+        :51,
+        :67,
+        :88,
+        :94 ;
+    :b_ov_m :90,
+        :93 ;
+    :d :124,
+        :33,
+        :60 ;
+    :d_di_ov_oi_s_si_f_fi_eq :19 ;
+    :d_oi_f :69,
+        :87 ;
+    :d_ov_s :110,
+        :25,
+        :40,
+        :63 ;
+    :di_ov_fi :32,
+        :41,
+        :96 ;
+    :ov :129,
+        :78,
+        :91 .
+
+:25 a owl:NamedIndividual ;
+    :a :73 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :48,
+        :50 ;
+    :a_d_oi_mi_f :109,
+        :114,
+        :120,
+        :69 ;
+    :a_di_oi_mi_si :115,
+        :122,
+        :51,
+        :78 ;
+    :a_oi_mi :113,
+        :34,
+        :79,
+        :82,
+        :86 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :57,
+        :93 ;
+    :b_di_ov_m_fi :55,
+        :89,
+        :90 ;
+    :d_di_ov_oi_s_si_f_fi_eq :110,
+        :112,
+        :31,
+        :43,
+        :53,
+        :62,
+        :68 ;
+    :di_oi_si :121,
+        :123,
+        :28 ;
+    :di_ov_fi :105,
+        :127 ;
+    :fi :108 ;
+    :s_si_eq :126,
+        :76 ;
+    :si :96 .
+
+:29 a owl:NamedIndividual ;
+    :a :33,
+        :96 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :102,
+        :104,
+        :120,
+        :128,
+        :53,
+        :70 ;
+    :a_d_oi_mi_f :126,
+        :30,
+        :42,
+        :59,
+        :64,
+        :68 ;
+    :a_di_oi_mi_si :113,
+        :118,
+        :46 ;
+    :a_oi_mi :40,
+        :48,
+        :50,
+        :55,
+        :58,
+        :69,
+        :77,
+        :93 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :112,
+        :95,
+        :99 ;
+    :b_d_ov_m_s :125,
+        :98 ;
+    :b_ov_m :47 ;
+    :d_di_ov_oi_s_si_f_fi_eq :123 ;
+    :d_oi_f :105,
+        :83 ;
+    :d_ov_s :54,
+        :88 ;
+    :f_fi_eq :91 ;
+    :mi :80 ;
+    :oi :44,
+        :78 ;
+    :s_si_eq :35 .
+
+:15 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :120,
+        :62 ;
+    :a_d_oi_mi_f :128 ;
+    :a_di_oi_mi_si :100,
+        :122,
+        :74 ;
+    :b :42,
+        :51,
+        :75,
+        :90 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :121,
+        :23,
+        :25,
+        :35,
+        :46 ;
+    :b_d_ov_m_s :105,
+        :115,
+        :26,
+        :27,
+        :89 ;
+    :b_di_ov_m_fi :110,
+        :24,
+        :29,
+        :36,
+        :55,
+        :57,
+        :63,
+        :66,
+        :81,
+        :97 ;
+    :b_ov_m :88 ;
+    :d_di_ov_oi_s_si_f_fi_eq :72 ;
+    :d_oi_f :44 ;
+    :di :107,
+        :116,
+        :39,
+        :48 ;
+    :di_oi_si :33,
+        :53,
+        :56,
+        :59 ;
+    :di_ov_fi :123,
+        :127,
+        :61 .
+
+:21 a owl:NamedIndividual ;
+    :a :72 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :124,
+        :22,
+        :34,
+        :60,
+        :64,
+        :96 ;
+    :a_d_oi_mi_f :73,
+        :83 ;
+    :a_di_oi_mi_si :37,
+        :77 ;
+    :a_oi_mi :120,
+        :71 ;
+    :b :27,
+        :66,
+        :94 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :109,
+        :33,
+        :47,
+        :53,
+        :59 ;
+    :b_d_ov_m_s :104,
+        :26 ;
+    :b_di_ov_m_fi :112,
+        :39,
+        :56,
+        :75 ;
+    :b_ov_m :46 ;
+    :d :25,
+        :95 ;
+    :d_di_ov_oi_s_si_f_fi_eq :118,
+        :24,
+        :58 ;
+    :d_oi_f :100,
+        :129 ;
+    :d_ov_s :106 ;
+    :di :48 ;
+    :f :63 ;
+    :oi :122,
+        :31 ;
+    :s :78 .
+
+:26 a owl:NamedIndividual ;
+    :a :37,
+        :39,
+        :48,
+        :63,
+        :74,
+        :77,
+        :84 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :127,
+        :34,
+        :40,
+        :85,
+        :87 ;
+    :a_d_oi_mi_f :106,
+        :107,
+        :114,
+        :65,
+        :72,
+        :80 ;
+    :a_di_oi_mi_si :124,
+        :58,
+        :68,
+        :90 ;
+    :a_oi_mi :122,
+        :129,
+        :50 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :104 ;
+    :b_d_ov_m_s :108,
+        :35,
+        :91,
+        :98 ;
+    :b_ov_m :27,
+        :47 ;
+    :d :32,
+        :43,
+        :75 ;
+    :d_di_ov_oi_s_si_f_fi_eq :60 ;
+    :d_oi_f :112,
+        :42 ;
+    :d_ov_s :51 ;
+    :eq :67 .
+
+:30 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :106,
+        :113,
+        :31 ;
+    :b :39 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :67,
+        :79,
+        :91,
+        :93 ;
+    :b_d_ov_m_s :110,
+        :43,
+        :47,
+        :84 ;
+    :b_di_ov_m_fi :49,
+        :53,
+        :98 ;
+    :b_ov_m :41,
+        :51,
+        :63,
+        :75,
+        :94 ;
+    :d :128,
+        :70 ;
+    :d_di_ov_oi_s_si_f_fi_eq :100,
+        :86 ;
+    :d_ov_s :45,
+        :52,
+        :68 ;
+    :di :34,
+        :81 ;
+    :di_oi_si :109,
+        :50 ;
+    :di_ov_fi :103 ;
+    :f_fi_eq :71 ;
+    :fi :37 ;
+    :mi :107 ;
+    :ov :36,
+        :40 ;
+    :si :122 .
+
+:20 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :114,
+        :28 ;
+    :b :119,
+        :24,
+        :39,
+        :51,
+        :66,
+        :80 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :100,
+        :105,
+        :107,
+        :38,
+        :61,
+        :63,
+        :74,
+        :84 ;
+    :b_d_ov_m_s :101,
+        :102,
+        :108,
+        :109,
+        :115,
+        :22,
+        :23,
+        :45,
+        :48,
+        :49,
+        :50,
+        :91,
+        :97 ;
+    :b_di_ov_m_fi :30,
+        :37,
+        :46,
+        :55,
+        :77,
+        :78,
+        :81 ;
+    :b_ov_m :118,
+        :41,
+        :47,
+        :65,
+        :90,
+        :95 ;
+    :d_ov_s :87 ;
+    :di :85 ;
+    :m :124,
+        :31,
+        :79 ;
+    :s :86 ;
+    :s_si_eq :121 .
+
+:38 a owl:NamedIndividual ;
+    :a :79,
+        :85 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :99 ;
+    :a_di_oi_mi_si :114,
+        :55,
+        :81 ;
+    :b :75 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :105,
+        :56 ;
+    :b_d_ov_m_s :102,
+        :121,
+        :42,
+        :46 ;
+    :b_di_ov_m_fi :108 ;
+    :b_ov_m :67 ;
+    :d_di_ov_oi_s_si_f_fi_eq :122,
+        :123,
+        :40,
+        :52,
+        :57,
+        :83,
+        :97 ;
+    :di :50,
+        :71,
+        :72 ;
+    :di_oi_si :109,
+        :59,
+        :87 ;
+    :di_ov_fi :117 ;
+    :fi :118 ;
+    :oi :111 .
+
+:23 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :32,
+        :77 ;
+    :a_d_oi_mi_f :64 ;
+    :b :105,
+        :29,
+        :53,
+        :62 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :100,
+        :120,
+        :127,
+        :27,
+        :36,
+        :45,
+        :52,
+        :74,
+        :78,
+        :96 ;
+    :b_d_ov_m_s :67,
+        :71,
+        :75,
+        :81,
+        :84,
+        :91 ;
+    :b_di_ov_m_fi :102,
+        :90 ;
+    :b_ov_m :115,
+        :46,
+        :89 ;
+    :d :33,
+        :61,
+        :63 ;
+    :d_di_ov_oi_s_si_f_fi_eq :109,
+        :114,
+        :93 ;
+    :d_oi_f :60,
+        :87 ;
+    :d_ov_s :70 ;
+    :f :69 ;
+    :s :65 ;
+    :s_si_eq :49 .
+
+:27 a owl:NamedIndividual ;
+    :a :53,
+        :56,
+        :59,
+        :63 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :105,
+        :113,
+        :38,
+        :52,
+        :79,
+        :87,
+        :92,
+        :96 ;
+    :a_d_oi_mi_f :28,
+        :43,
+        :75,
+        :78,
+        :90 ;
+    :a_di_oi_mi_si :116,
+        :122,
+        :64,
+        :73 ;
+    :a_oi_mi :61,
+        :71,
+        :74,
+        :97,
+        :98 ;
+    :d_di_ov_oi_s_si_f_fi_eq :35 ;
+    :d_ov_s :112 ;
+    :f :54 .
+
+:31 a owl:NamedIndividual ;
+    :a :85 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :103,
+        :120,
+        :129,
+        :38 ;
+    :a_d_oi_mi_f :57 ;
+    :a_di_oi_mi_si :69,
+        :81 ;
+    :a_oi_mi :86 ;
+    :b :105,
+        :46 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :108,
+        :126,
+        :33,
+        :41,
+        :64,
+        :70,
+        :73,
+        :84 ;
+    :b_d_ov_m_s :112,
+        :43 ;
+    :b_di_ov_m_fi :100,
+        :115,
+        :36,
+        :97 ;
+    :b_ov_m :106,
+        :110,
+        :65,
+        :80 ;
+    :d_di_ov_oi_s_si_f_fi_eq :109,
+        :71 ;
+    :d_ov_s :32 ;
+    :di :107 ;
+    :di_oi_si :59 ;
+    :di_ov_fi :113,
+        :123,
+        :99 ;
+    :eq :124 ;
+    :f_fi_eq :37 ;
+    :ov :62,
+        :68 ;
+    :s_si_eq :79 .
+
+:32 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :60,
+        :83 ;
+    :a_d_oi_mi_f :64 ;
+    :a_di_oi_mi_si :46,
+        :48,
+        :62,
+        :67 ;
+    :a_oi_mi :121 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :100,
+        :101,
+        :102 ;
+    :b_d_ov_m_s :88 ;
+    :b_di_ov_m_fi :106,
+        :34,
+        :49,
+        :59,
+        :74 ;
+    :d_di_ov_oi_s_si_f_fi_eq :126,
+        :33,
+        :53,
+        :58 ;
+    :d_oi_f :111,
+        :44,
+        :54 ;
+    :d_ov_s :35 ;
+    :di :116,
+        :40,
+        :51,
+        :63 ;
+    :di_oi_si :110,
+        :113,
+        :123,
+        :99 ;
+    :di_ov_fi :108,
+        :65 ;
+    :s_si_eq :97 .
+
+:35 a owl:NamedIndividual ;
+    :a :109,
+        :129,
+        :89 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :68,
+        :73 ;
+    :a_d_oi_mi_f :110,
+        :127,
+        :128,
+        :55,
+        :72,
+        :98 ;
+    :a_di_oi_mi_si :124,
+        :49,
+        :62,
+        :70 ;
+    :a_oi_mi :104,
+        :112,
+        :53,
+        :59,
+        :69 ;
+    :b_di_ov_m_fi :125 ;
+    :d_di_ov_oi_s_si_f_fi_eq :44,
+        :95 ;
+    :di :43 ;
+    :di_oi_si :108,
+        :117,
+        :46,
+        :65,
+        :67 ;
+    :f_fi_eq :106 ;
+    :oi :121,
+        :60 .
+
+:22 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :124,
+        :88 ;
+    :a_d_oi_mi_f :85 ;
+    :a_di_oi_mi_si :117,
+        :127,
+        :49,
+        :64,
+        :68,
+        :78,
+        :95 ;
+    :a_oi_mi :107,
+        :57 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :113,
+        :128,
+        :39,
+        :48,
+        :52,
+        :80 ;
+    :d_di_ov_oi_s_si_f_fi_eq :115,
+        :69,
+        :73,
+        :74,
+        :76,
+        :96,
+        :99 ;
+    :d_oi_f :114,
+        :70 ;
+    :di :126,
+        :90,
+        :91 ;
+    :di_oi_si :108,
+        :111,
+        :125,
+        :26,
+        :58,
+        :66 ;
+    :di_ov_fi :103,
+        :120,
+        :123,
+        :53 ;
+    :oi :33 ;
+    :ov :75 .
+
+:24 a owl:NamedIndividual ;
+    :a :79 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :37,
+        :64 ;
+    :a_d_oi_mi_f :31 ;
+    :a_di_oi_mi_si :73 ;
+    :a_oi_mi :100,
+        :122,
+        :86 ;
+    :b :42 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :27,
+        :62,
+        :84,
+        :97 ;
+    :b_d_ov_m_s :70,
+        :95 ;
+    :b_di_ov_m_fi :105,
+        :126,
+        :52 ;
+    :b_ov_m :108,
+        :119,
+        :41,
+        :46 ;
+    :d_di_ov_oi_s_si_f_fi_eq :111,
+        :121,
+        :54,
+        :57,
+        :59,
+        :80,
+        :91 ;
+    :d_oi_f :83 ;
+    :d_ov_s :33 ;
+    :di_ov_fi :109,
+        :72,
+        :94 ;
+    :ov :116,
+        :123 .
+
+:28 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :98 ;
+    :a_di_oi_mi_si :39,
+        :73,
+        :94 ;
+    :b :75 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :104,
+        :122,
+        :29,
+        :52,
+        :55,
+        :57,
+        :68,
+        :71,
+        :72 ;
+    :b_d_ov_m_s :128,
+        :35,
+        :83,
+        :99 ;
+    :b_di_ov_m_fi :109,
+        :51 ;
+    :b_ov_m :118,
+        :61,
+        :95 ;
+    :d_di_ov_oi_s_si_f_fi_eq :114,
+        :37 ;
+    :di :48,
+        :62,
+        :77 ;
+    :di_oi_si :107,
+        :110,
+        :127,
+        :33,
+        :59,
+        :69 ;
+    :di_ov_fi :117,
+        :119,
+        :123,
+        :124,
+        :54,
+        :58,
+        :64 ;
+    :ov :89 .
+
+:33 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :129,
+        :36,
+        :70,
+        :85,
+        :86 ;
+    :a_di_oi_mi_si :119,
+        :50,
+        :74 ;
+    :b :108 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :35,
+        :37,
+        :46,
+        :51,
+        :97,
+        :98 ;
+    :b_d_ov_m_s :105,
+        :42,
+        :80 ;
+    :b_di_ov_m_fi :101,
+        :125,
+        :38,
+        :82 ;
+    :b_ov_m :47 ;
+    :d_di_ov_oi_s_si_f_fi_eq :60,
+        :95 ;
+    :d_oi_f :114,
+        :73,
+        :87 ;
+    :d_ov_s :61 ;
+    :di :100,
+        :45 ;
+    :di_oi_si :124,
+        :68 ;
+    :di_ov_fi :40 ;
+    :ov :126,
+        :56,
+        :78,
+        :94 ;
+    :s_si_eq :44 .
+
+:34 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :124,
+        :64,
+        :68,
+        :73 ;
+    :a_d_oi_mi_f :41,
+        :44,
+        :69,
+        :79 ;
+    :a_di_oi_mi_si :86 ;
+    :b :101,
+        :125,
+        :78,
+        :81,
+        :89 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :103,
+        :105,
+        :39,
+        :58,
+        :67,
+        :84 ;
+    :b_d_ov_m_s :37,
+        :40,
+        :59,
+        :88 ;
+    :b_di_ov_m_fi :115,
+        :42,
+        :53 ;
+    :b_ov_m :118,
+        :36,
+        :55 ;
+    :d :38,
+        :54,
+        :57 ;
+    :d_di_ov_oi_s_si_f_fi_eq :111 ;
+    :d_oi_f :109 ;
+    :s :120 .
+
+:36 a owl:NamedIndividual ;
+    :a :120 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :73,
+        :76,
+        :79,
+        :90,
+        :99 ;
+    :a_d_oi_mi_f :44,
+        :71 ;
+    :a_di_oi_mi_si :129,
+        :64,
+        :86 ;
+    :a_oi_mi :100,
+        :80 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :96 ;
+    :b_d_ov_m_s :54 ;
+    :b_di_ov_m_fi :51 ;
+    :b_ov_m :115,
+        :43,
+        :75 ;
+    :d_di_ov_oi_s_si_f_fi_eq :40,
+        :61,
+        :78 ;
+    :d_oi_f :37,
+        :98 ;
+    :d_ov_s :42 ;
+    :di :117 ;
+    :di_oi_si :114,
+        :57,
+        :97 ;
+    :di_ov_fi :105,
+        :59 ;
+    :f_fi_eq :123 ;
+    :mi :49 ;
+    :s :126 ;
+    :s_si_eq :118,
+        :45 .
+
+:37 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :70 ;
+    :a_d_oi_mi_f :128,
+        :44,
+        :82 ;
+    :a_di_oi_mi_si :64,
+        :85 ;
+    :b :90 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :101,
+        :109,
+        :122,
+        :39,
+        :51,
+        :94 ;
+    :b_d_ov_m_s :112,
+        :41,
+        :56,
+        :78 ;
+    :b_di_ov_m_fi :115,
+        :46,
+        :84 ;
+    :b_ov_m :119,
+        :53,
+        :88 ;
+    :d_di_ov_oi_s_si_f_fi_eq :106,
+        :129,
+        :63,
+        :86,
+        :98 ;
+    :d_oi_f :87 ;
+    :di :69 ;
+    :di_ov_fi :96 ;
+    :eq :100 ;
+    :f :124 ;
+    :f_fi_eq :74 ;
+    :ov :127 .
+
+:40 a owl:NamedIndividual ;
+    :a :73 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :89 ;
+    :a_di_oi_mi_si :45 ;
+    :a_oi_mi :97 ;
+    :b :101,
+        :46,
+        :75 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :47 ;
+    :b_di_ov_m_fi :43,
+        :66 ;
+    :b_ov_m :108,
+        :42,
+        :99 ;
+    :d :128 ;
+    :d_di_ov_oi_s_si_f_fi_eq :102,
+        :41,
+        :48,
+        :51,
+        :57,
+        :93 ;
+    :d_ov_s :112,
+        :95 ;
+    :di_oi_si :103,
+        :56,
+        :96 ;
+    :di_ov_fi :127,
+        :58 ;
+    :f :80 ;
+    :oi :111 ;
+    :ov :117 ;
+    :si :109 .
+
+:41 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :50,
+        :80,
+        :84 ;
+    :a_d_oi_mi_f :98 ;
+    :a_di_oi_mi_si :117,
+        :96 ;
+    :a_oi_mi :73 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :111,
+        :70,
+        :87 ;
+    :b_d_ov_m_s :106 ;
+    :b_di_ov_m_fi :43,
+        :71,
+        :92 ;
+    :d_di_ov_oi_s_si_f_fi_eq :62,
+        :74,
+        :88 ;
+    :d_oi_f :83,
+        :97 ;
+    :di :56 ;
+    :di_oi_si :120,
+        :81 ;
+    :di_ov_fi :118,
+        :127,
+        :45,
+        :91 ;
+    :f :93 ;
+    :f_fi_eq :65 ;
+    :oi :57 ;
+    :ov :104,
+        :52 ;
+    :s_si_eq :63 .
+
+:43 a owl:NamedIndividual ;
+    :a :107,
+        :113,
+        :62,
+        :76,
+        :96 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :116,
+        :120,
+        :126,
+        :49,
+        :60,
+        :65,
+        :81,
+        :86 ;
+    :a_d_oi_mi_f :103,
+        :80,
+        :89 ;
+    :a_di_oi_mi_si :64,
+        :77,
+        :82 ;
+    :a_oi_mi :124,
+        :48,
+        :57,
+        :69,
+        :70,
+        :85,
+        :93 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :105,
+        :78 ;
+    :b_di_ov_m_fi :46 ;
+    :d_di_ov_oi_s_si_f_fi_eq :106,
+        :51,
+        :88 ;
+    :di :66 ;
+    :f :125 ;
+    :f_fi_eq :112 .
+
+:45 a owl:NamedIndividual ;
+    :a :73 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :50,
+        :60,
+        :77 ;
+    :a_d_oi_mi_f :87,
+        :95 ;
+    :a_di_oi_mi_si :120 ;
+    :a_oi_mi :79 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :106,
+        :61,
+        :63,
+        :74 ;
+    :b_d_ov_m_s :105,
+        :84,
+        :98 ;
+    :b_di_ov_m_fi :91 ;
+    :b_ov_m :115,
+        :46 ;
+    :d :123 ;
+    :d_di_ov_oi_s_si_f_fi_eq :112,
+        :76 ;
+    :d_oi_f :71 ;
+    :d_ov_s :94 ;
+    :di_oi_si :119,
+        :59 ;
+    :di_ov_fi :52,
+        :92 ;
+    :ov :56 .
+
+:39 a owl:NamedIndividual ;
+    :a :85 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :124,
+        :44,
+        :64,
+        :87 ;
+    :a_d_oi_mi_f :79 ;
+    :a_di_oi_mi_si :103,
+        :122,
+        :62,
+        :86 ;
+    :a_oi_mi :48,
+        :59 ;
+    :b :47 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :117,
+        :43,
+        :66 ;
+    :b_d_ov_m_s :106,
+        :126,
+        :46,
+        :83 ;
+    :b_di_ov_m_fi :101,
+        :42 ;
+    :d :118 ;
+    :d_di_ov_oi_s_si_f_fi_eq :60,
+        :65 ;
+    :d_oi_f :45,
+        :68,
+        :95,
+        :99 ;
+    :d_ov_s :94 ;
+    :fi :119 ;
+    :mi :57 .
+
+:42 a owl:NamedIndividual ;
+    :a :109,
+        :118,
+        :49,
+        :76,
+        :77,
+        :87 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :129,
+        :64 ;
+    :a_d_oi_mi_f :123,
+        :124,
+        :82 ;
+    :a_di_oi_mi_si :71 ;
+    :a_oi_mi :50,
+        :59,
+        :94 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :51,
+        :54,
+        :60 ;
+    :b_d_ov_m_s :95 ;
+    :b_di_ov_m_fi :66,
+        :90 ;
+    :b_ov_m :104 ;
+    :d :88 ;
+    :d_di_ov_oi_s_si_f_fi_eq :121,
+        :125 ;
+    :d_oi_f :58,
+        :80 ;
+    :d_ov_s :112 ;
+    :di_oi_si :102,
+        :117,
+        :91 ;
+    :di_ov_fi :67 .
+
+:44 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :100,
+        :70,
+        :71 ;
+    :a_d_oi_mi_f :114 ;
+    :a_di_oi_mi_si :49,
+        :97 ;
+    :b :47 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :109,
+        :127,
+        :56,
+        :58,
+        :72,
+        :89 ;
+    :b_d_ov_m_s :125,
+        :128,
+        :66 ;
+    :b_di_ov_m_fi :78 ;
+    :b_ov_m :83 ;
+    :d_di_ov_oi_s_si_f_fi_eq :54,
+        :85 ;
+    :d_ov_s :112,
+        :51 ;
+    :di :103,
+        :107,
+        :110,
+        :124,
+        :45,
+        :48,
+        :69,
+        :76 ;
+    :di_oi_si :59,
+        :96 ;
+    :f_fi_eq :117 ;
+    :ov :126,
+        :84 .
+
+:47 a owl:NamedIndividual ;
+    :a :119,
+        :129,
+        :49,
+        :83 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :101,
+        :52,
+        :54,
+        :74,
+        :82,
+        :92 ;
+    :a_d_oi_mi_f :50,
+        :73,
+        :78,
+        :86,
+        :90 ;
+    :a_di_oi_mi_si :109,
+        :111,
+        :57,
+        :69,
+        :77,
+        :80,
+        :94,
+        :97 ;
+    :a_oi_mi :113,
+        :120,
+        :125,
+        :61,
+        :66 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :95 ;
+    :d_oi_f :105 ;
+    :mi :88 .
+
+:52 a owl:NamedIndividual ;
+    :a :113,
+        :86,
+        :97 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :122,
+        :69,
+        :77 ;
+    :a_d_oi_mi_f :107,
+        :55,
+        :68,
+        :79 ;
+    :a_di_oi_mi_si :109,
+        :126,
+        :63,
+        :76,
+        :85 ;
+    :a_oi_mi :120,
+        :73 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :102,
+        :90,
+        :99 ;
+    :b_d_ov_m_s :54 ;
+    :b_di_ov_m_fi :112,
+        :53 ;
+    :d :115 ;
+    :d_di_ov_oi_s_si_f_fi_eq :74,
+        :82,
+        :95 ;
+    :d_oi_f :128,
+        :61 ;
+    :di :81 ;
+    :di_oi_si :65 ;
+    :di_ov_fi :59 ;
+    :fi :104 ;
+    :oi :121,
+        :129 .
+
+:56 a owl:NamedIndividual ;
+    :a :107,
+        :59,
+        :81 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :109,
+        :76,
+        :97 ;
+    :a_d_oi_mi_f :113,
+        :118,
+        :77,
+        :85 ;
+    :a_di_oi_mi_si :100,
+        :103,
+        :111,
+        :79,
+        :96 ;
+    :a_oi_mi :114 ;
+    :b :105 ;
+    :b_d_ov_m_s :116,
+        :67 ;
+    :d :65 ;
+    :d_di_ov_oi_s_si_f_fi_eq :61 ;
+    :d_oi_f :123 ;
+    :d_ov_s :126 ;
+    :di_oi_si :94 ;
+    :si :119 .
+
+:48 a owl:NamedIndividual ;
+    :a :79 ;
+    :a_d_oi_mi_f :121,
+        :122,
+        :69,
+        :97 ;
+    :a_di_oi_mi_si :113,
+        :50 ;
+    :a_oi_mi :107,
+        :120,
+        :129,
+        :49,
+        :85,
+        :87 ;
+    :b :101,
+        :51,
+        :66,
+        :81 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :114,
+        :125,
+        :56,
+        :67,
+        :82,
+        :90 ;
+    :b_d_ov_m_s :105 ;
+    :b_di_ov_m_fi :112,
+        :99 ;
+    :d :57 ;
+    :d_di_ov_oi_s_si_f_fi_eq :115,
+        :68 ;
+    :d_oi_f :118,
+        :95 ;
+    :d_ov_s :80 ;
+    :di_oi_si :76 ;
+    :di_ov_fi :127,
+        :91 ;
+    :oi :103,
+        :109 ;
+    :s :102 .
+
+:46 a owl:NamedIndividual ;
+    :a :117,
+        :118,
+        :53,
+        :57,
+        :81 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :129,
+        :85,
+        :87,
+        :96,
+        :97 ;
+    :a_d_oi_mi_f :103,
+        :114,
+        :116,
+        :55 ;
+    :a_di_oi_mi_si :110,
+        :119,
+        :74,
+        :80 ;
+    :a_oi_mi :93 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :128 ;
+    :b_d_ov_m_s :126 ;
+    :b_di_ov_m_fi :47 ;
+    :d_di_ov_oi_s_si_f_fi_eq :112,
+        :99 ;
+    :d_ov_s :54,
+        :60,
+        :61 ;
+    :di_oi_si :78 ;
+    :f_fi_eq :102 ;
+    :m :101 ;
+    :s_si_eq :66,
+        :75 .
+
+:49 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :121,
+        :124,
+        :64,
+        :65 ;
+    :a_d_oi_mi_f :111,
+        :114 ;
+    :a_oi_mi :73,
+        :79 ;
+    :b :62,
+        :94 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :103,
+        :59,
+        :61,
+        :66 ;
+    :b_d_ov_m_s :115,
+        :116,
+        :126,
+        :70,
+        :89,
+        :99 ;
+    :b_di_ov_m_fi :108,
+        :51,
+        :56 ;
+    :b_ov_m :102,
+        :75 ;
+    :d_di_ov_oi_s_si_f_fi_eq :54,
+        :95,
+        :98 ;
+    :di_oi_si :120 ;
+    :f_fi_eq :50 ;
+    :m :76,
+        :96 .
+
+:55 a owl:NamedIndividual ;
+    :a :85 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :113,
+        :91,
+        :95 ;
+    :a_d_oi_mi_f :120,
+        :69,
+        :71,
+        :77,
+        :98 ;
+    :b :104,
+        :106,
+        :115 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :100,
+        :105,
+        :116,
+        :117,
+        :56,
+        :58,
+        :59,
+        :84 ;
+    :b_d_ov_m_s :101,
+        :118 ;
+    :b_ov_m :119,
+        :88 ;
+    :d :127,
+        :57,
+        :92 ;
+    :d_di_ov_oi_s_si_f_fi_eq :123 ;
+    :d_oi_f :65 ;
+    :d_ov_s :114,
+        :78 ;
+    :oi :76 ;
+    :ov :110 .
+
+:60 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :107,
+        :118,
+        :119,
+        :62 ;
+    :a_di_oi_mi_si :77 ;
+    :b_di_ov_m_fi :111,
+        :115,
+        :92 ;
+    :d_di_ov_oi_s_si_f_fi_eq :69,
+        :76 ;
+    :di :102,
+        :85 ;
+    :di_oi_si :120,
+        :65,
+        :80 ;
+    :di_ov_fi :100,
+        :103,
+        :71,
+        :82 .
+
+:61 a owl:NamedIndividual ;
+    :a :79 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :88 ;
+    :a_di_oi_mi_si :103,
+        :113,
+        :68,
+        :85 ;
+    :a_oi_mi :107 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :108,
+        :114,
+        :120,
+        :128,
+        :129 ;
+    :b_d_ov_m_s :98 ;
+    :b_di_ov_m_fi :76 ;
+    :d_di_ov_oi_s_si_f_fi_eq :121,
+        :87 ;
+    :d_ov_s :115,
+        :75,
+        :95 ;
+    :di :92 ;
+    :di_oi_si :66,
+        :93,
+        :96 ;
+    :di_ov_fi :101,
+        :112,
+        :65,
+        :81 ;
+    :fi :90 ;
+    :mi :64 .
+
+:67 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :114,
+        :82,
+        :85,
+        :86 ;
+    :a_d_oi_mi_f :103,
+        :124,
+        :68,
+        :70,
+        :72,
+        :75,
+        :83 ;
+    :a_di_oi_mi_si :102,
+        :93 ;
+    :a_oi_mi :78,
+        :84,
+        :94 ;
+    :b_d_ov_m_s :104 ;
+    :d :98 ;
+    :d_di_ov_oi_s_si_f_fi_eq :105,
+        :115 ;
+    :d_oi_f :108 ;
+    :oi :126 .
+
+:53 a owl:NamedIndividual ;
+    :a :76 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :107,
+        :111,
+        :72,
+        :86 ;
+    :a_d_oi_mi_f :62,
+        :71,
+        :92,
+        :98 ;
+    :a_di_oi_mi_si :109,
+        :55,
+        :59 ;
+    :a_oi_mi :82,
+        :87 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :123,
+        :54,
+        :90 ;
+    :b_d_ov_m_s :105,
+        :125 ;
+    :b_ov_m :117 ;
+    :d :119,
+        :128,
+        :61 ;
+    :d_di_ov_oi_s_si_f_fi_eq :58,
+        :65,
+        :94 ;
+    :d_ov_s :56 .
+
+:58 a owl:NamedIndividual ;
+    :a :69 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :63,
+        :71,
+        :73,
+        :92 ;
+    :a_d_oi_mi_f :129,
+        :79 ;
+    :a_di_oi_mi_si :120,
+        :80,
+        :85 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :111,
+        :83 ;
+    :b_d_ov_m_s :67 ;
+    :b_di_ov_m_fi :125,
+        :99 ;
+    :d_di_ov_oi_s_si_f_fi_eq :104,
+        :123,
+        :88,
+        :94 ;
+    :d_ov_s :75 ;
+    :di :119,
+        :84 ;
+    :di_oi_si :127 ;
+    :di_ov_fi :102 ;
+    :oi :114 ;
+    :s_si_eq :116 ;
+    :si :126,
+        :74 .
+
+:62 a owl:NamedIndividual ;
+    :a :76 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :82 ;
+    :a_oi_mi :113,
+        :73,
+        :74,
+        :77 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :122,
+        :128,
+        :94 ;
+    :b_d_ov_m_s :123 ;
+    :b_di_ov_m_fi :88,
+        :89 ;
+    :b_ov_m :105,
+        :117 ;
+    :d :93 ;
+    :d_di_ov_oi_s_si_f_fi_eq :126 ;
+    :d_oi_f :129 ;
+    :d_ov_s :80 ;
+    :di_oi_si :114,
+        :124 ;
+    :s_si_eq :99 .
+
+:66 a owl:NamedIndividual ;
+    :a :113,
+        :92,
+        :97 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :111,
+        :123,
+        :73,
+        :79 ;
+    :a_d_oi_mi_f :127,
+        :129,
+        :72,
+        :87 ;
+    :a_oi_mi :117,
+        :122,
+        :81 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :112 ;
+    :b_d_ov_m_s :125,
+        :67,
+        :95 ;
+    :d_di_ov_oi_s_si_f_fi_eq :115 ;
+    :d_oi_f :105,
+        :90 ;
+    :d_ov_s :70 ;
+    :ov :101 ;
+    :s_si_eq :75 .
+
+:51 a owl:NamedIndividual ;
+    :a :127,
+        :64,
+        :81,
+        :82 ;
+    :a_d_oi_mi_f :109,
+        :117,
+        :63,
+        :77 ;
+    :a_di_oi_mi_si :102,
+        :124,
+        :52,
+        :97 ;
+    :a_oi_mi :103,
+        :107,
+        :116,
+        :122,
+        :55,
+        :73,
+        :86,
+        :94,
+        :96 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :108,
+        :115,
+        :121 ;
+    :b_d_ov_m_s :106 ;
+    :b_ov_m :105 ;
+    :d :88 ;
+    :d_di_ov_oi_s_si_f_fi_eq :118,
+        :54,
+        :78,
+        :90 ;
+    :d_oi_f :80,
+        :83,
+        :91 ;
+    :di_oi_si :123,
+        :126 ;
+    :di_ov_fi :84 ;
+    :f_fi_eq :112,
+        :125 .
+
+:70 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :113,
+        :128,
+        :89 ;
+    :a_di_oi_mi_si :100,
+        :71,
+        :97 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :124 ;
+    :b_di_ov_m_fi :108,
+        :111,
+        :117,
+        :127 ;
+    :b_ov_m :75 ;
+    :d_di_ov_oi_s_si_f_fi_eq :74,
+        :77 ;
+    :di :72,
+        :85,
+        :90 ;
+    :di_oi_si :103,
+        :84 ;
+    :di_ov_fi :94 ;
+    :oi :73 ;
+    :si :114 .
+
+:77 a owl:NamedIndividual ;
+    :a_d_oi_mi_f :114 ;
+    :b :112,
+        :115,
+        :90 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :129,
+        :92 ;
+    :b_d_ov_m_s :102,
+        :106,
+        :99 ;
+    :b_di_ov_m_fi :119,
+        :123,
+        :80,
+        :94 ;
+    :b_ov_m :117 ;
+    :d :87 ;
+    :d_di_ov_oi_s_si_f_fi_eq :98 ;
+    :d_oi_f :85 ;
+    :di_oi_si :79 ;
+    :di_ov_fi :107 .
+
+:82 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :120,
+        :85,
+        :89 ;
+    :a_di_oi_mi_si :109,
+        :129 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :106,
+        :125 ;
+    :b_d_ov_m_s :105,
+        :128 ;
+    :b_di_ov_m_fi :101,
+        :110,
+        :112,
+        :91,
+        :99 ;
+    :b_ov_m :104 ;
+    :d_di_ov_oi_s_si_f_fi_eq :114,
+        :93 ;
+    :d_oi_f :95 ;
+    :di_ov_fi :103,
+        :113,
+        :127,
+        :97 ;
+    :eq :111 ;
+    :oi :86 ;
+    :ov :123 .
+
+:50 a owl:NamedIndividual ;
+    :a :79 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :111,
+        :57 ;
+    :a_oi_mi :85 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :106,
+        :115,
+        :119,
+        :74,
+        :82,
+        :89 ;
+    :b_d_ov_m_s :103,
+        :122,
+        :125,
+        :126,
+        :94,
+        :98 ;
+    :b_di_ov_m_fi :120,
+        :127,
+        :91 ;
+    :b_ov_m :102,
+        :62,
+        :66 ;
+    :d :109 ;
+    :d_di_ov_oi_s_si_f_fi_eq :54,
+        :63 ;
+    :d_oi_f :71,
+        :95,
+        :97 ;
+    :d_ov_s :80,
+        :93 ;
+    :oi :72 ;
+    :s :65 .
+
+:54 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :68,
+        :79,
+        :83 ;
+    :a_di_oi_mi_si :104,
+        :118,
+        :121,
+        :64 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :101,
+        :55,
+        :57,
+        :63,
+        :75 ;
+    :b_d_ov_m_s :112 ;
+    :b_di_ov_m_fi :105,
+        :62,
+        :84 ;
+    :d :60,
+        :70 ;
+    :d_di_ov_oi_s_si_f_fi_eq :109,
+        :111,
+        :98 ;
+    :d_oi_f :124 ;
+    :d_ov_s :88 ;
+    :di :116,
+        :126,
+        :56,
+        :67,
+        :71,
+        :80 ;
+    :di_oi_si :120,
+        :87 ;
+    :di_ov_fi :92 ;
+    :f_fi_eq :115 ;
+    :si :82 .
+
+:64 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :122,
+        :128,
+        :79 ;
+    :a_di_oi_mi_si :85 ;
+    :b :101,
+        :108,
+        :126,
+        :81,
+        :94 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :105,
+        :124 ;
+    :b_d_ov_m_s :110,
+        :116,
+        :76,
+        :96 ;
+    :b_di_ov_m_fi :72,
+        :88 ;
+    :b_ov_m :102,
+        :117,
+        :65,
+        :78,
+        :98 ;
+    :d_ov_s :121 ;
+    :f :77 ;
+    :ov :68 ;
+    :s :113 .
+
+:69 a owl:NamedIndividual ;
+    :a :79 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :71 ;
+    :a_d_oi_mi_f :121,
+        :83 ;
+    :b :101,
+        :116 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :105,
+        :112,
+        :125 ;
+    :b_d_ov_m_s :115,
+        :120,
+        :72 ;
+    :b_di_ov_m_fi :119,
+        :127 ;
+    :b_ov_m :78,
+        :94,
+        :99 ;
+    :d :80 ;
+    :di_ov_fi :98 ;
+    :ov :113 .
+
+:71 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :107,
+        :113,
+        :85 ;
+    :a_d_oi_mi_f :73 ;
+    :a_di_oi_mi_si :81 ;
+    :b :104 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :106,
+        :108,
+        :117,
+        :90 ;
+    :b_d_ov_m_s :105 ;
+    :b_di_ov_m_fi :119 ;
+    :b_ov_m :118,
+        :127,
+        :84 ;
+    :d_di_ov_oi_s_si_f_fi_eq :87 ;
+    :d_oi_f :114 ;
+    :d_ov_s :111,
+        :123,
+        :93,
+        :96,
+        :98 ;
+    :di_ov_fi :76,
+        :91 ;
+    :f :100 .
+
+:57 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :93 ;
+    :a_di_oi_mi_si :100,
+        :92 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :120,
+        :66,
+        :84,
+        :86,
+        :96 ;
+    :b_d_ov_m_s :106 ;
+    :b_di_ov_m_fi :108,
+        :110,
+        :78,
+        :79,
+        :91 ;
+    :b_ov_m :102,
+        :123 ;
+    :d :95 ;
+    :d_di_ov_oi_s_si_f_fi_eq :122,
+        :65,
+        :76 ;
+    :d_ov_s :121 ;
+    :di :127,
+        :85 ;
+    :di_oi_si :64,
+        :71 ;
+    :di_ov_fi :109,
+        :80 ;
+    :m :112 ;
+    :ov :68 .
+
+:63 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :114,
+        :124,
+        :126,
+        :97,
+        :98 ;
+    :a_d_oi_mi_f :95 ;
+    :a_di_oi_mi_si :79 ;
+    :a_oi_mi :86 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :104,
+        :105,
+        :108,
+        :111,
+        :117 ;
+    :b_d_ov_m_s :99 ;
+    :b_di_ov_m_fi :125,
+        :71,
+        :75 ;
+    :b_ov_m :119,
+        :84,
+        :88 ;
+    :d_di_ov_oi_s_si_f_fi_eq :103,
+        :123 ;
+    :d_oi_f :129,
+        :69,
+        :87,
+        :93 ;
+    :di :74,
+        :76 ;
+    :di_oi_si :110 ;
+    :di_ov_fi :81 ;
+    :oi :109 ;
+    :s_si_eq :72 .
+
+:65 a owl:NamedIndividual ;
+    :a :79 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :83,
+        :85,
+        :99 ;
+    :a_d_oi_mi_f :97 ;
+    :a_di_oi_mi_si :100,
+        :117,
+        :127 ;
+    :a_oi_mi :73 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :66,
+        :74 ;
+    :b_d_ov_m_s :101,
+        :128 ;
+    :b_di_ov_m_fi :123,
+        :78 ;
+    :d_di_ov_oi_s_si_f_fi_eq :81 ;
+    :d_ov_s :98 ;
+    :di_oi_si :114,
+        :129 ;
+    :di_ov_fi :102,
+        :110,
+        :115,
+        :96 ;
+    :oi :113 .
+
+:72 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :120 ;
+    :a_d_oi_mi_f :128,
+        :97 ;
+    :b :106,
+        :123,
+        :84,
+        :88,
+        :89,
+        :90 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :104,
+        :96 ;
+    :b_d_ov_m_s :110,
+        :118,
+        :74,
+        :92 ;
+    :b_di_ov_m_fi :103,
+        :91 ;
+    :b_ov_m :105,
+        :119 ;
+    :d_di_ov_oi_s_si_f_fi_eq :111,
+        :82 ;
+    :d_oi_f :100 ;
+    :d_ov_s :95 .
+
+:89 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :113,
+        :95 ;
+    :a_d_oi_mi_f :103 ;
+    :a_oi_mi :97 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :126 ;
+    :b_d_ov_m_s :90 ;
+    :b_ov_m :101 ;
+    :d :98 ;
+    :d_di_ov_oi_s_si_f_fi_eq :116 ;
+    :d_oi_f :121,
+        :123 ;
+    :di_oi_si :100 ;
+    :ov :91 .
+
+:93 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :104 ;
+    :a_d_oi_mi_f :121,
+        :97 ;
+    :a_di_oi_mi_si :123 ;
+    :b :101 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :129 ;
+    :b_d_ov_m_s :125 ;
+    :b_di_ov_m_fi :103 ;
+    :d_di_ov_oi_s_si_f_fi_eq :117 ;
+    :di_ov_fi :106 ;
+    :m :108 ;
+    :ov :99 .
+
+:68 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :121 ;
+    :a_di_oi_mi_si :127,
+        :92,
+        :96,
+        :97 ;
+    :a_oi_mi :124,
+        :85,
+        :86 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :109,
+        :84 ;
+    :b_d_ov_m_s :106,
+        :116 ;
+    :b_di_ov_m_fi :91 ;
+    :b_ov_m :101,
+        :102,
+        :108,
+        :119 ;
+    :d :128,
+        :83 ;
+    :d_di_ov_oi_s_si_f_fi_eq :77 ;
+    :d_ov_s :117 ;
+    :di :71 ;
+    :di_ov_fi :103,
+        :120,
+        :78 ;
+    :ov :94 .
+
+:76 a owl:NamedIndividual ;
+    :a :86 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :79 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :112,
+        :81 ;
+    :b_d_ov_m_s :92 ;
+    :b_di_ov_m_fi :84,
+        :94 ;
+    :b_ov_m :117,
+        :119,
+        :88 ;
+    :d_oi_f :83 ;
+    :d_ov_s :126,
+        :82,
+        :87 .
+
+:59 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :100,
+        :107,
+        :72,
+        :76,
+        :77 ;
+    :a_d_oi_mi_f :111,
+        :118,
+        :73 ;
+    :a_di_oi_mi_si :113 ;
+    :b :117,
+        :119,
+        :125 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :71,
+        :78,
+        :84,
+        :98 ;
+    :b_d_ov_m_s :102,
+        :104,
+        :116,
+        :123,
+        :68 ;
+    :b_di_ov_m_fi :105 ;
+    :b_ov_m :81,
+        :94 ;
+    :d :115,
+        :93 ;
+    :d_oi_f :114,
+        :121,
+        :60 ;
+    :d_ov_s :62,
+        :96 ;
+    :f :103 .
+
+:73 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :83 ;
+    :b :105,
+        :106 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :103,
+        :121,
+        :123,
+        :90,
+        :98 ;
+    :b_d_ov_m_s :126,
+        :81,
+        :89 ;
+    :b_di_ov_m_fi :127,
+        :78,
+        :97 ;
+    :b_ov_m :100,
+        :104,
+        :108,
+        :118,
+        :93,
+        :96 ;
+    :d_di_ov_oi_s_si_f_fi_eq :85 ;
+    :d_ov_s :95 ;
+    :di_oi_si :107 ;
+    :di_ov_fi :114 ;
+    :f_fi_eq :79 ;
+    :m :111 ;
+    :s_si_eq :86 .
+
+:74 a owl:NamedIndividual ;
+    :a_di_oi_mi_si :107,
+        :122,
+        :129,
+        :77 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :101,
+        :114,
+        :96 ;
+    :b_d_ov_m_s :90 ;
+    :b_di_ov_m_fi :112 ;
+    :b_ov_m :104,
+        :117,
+        :75,
+        :88,
+        :99 ;
+    :d_di_ov_oi_s_si_f_fi_eq :127,
+        :76 ;
+    :d_oi_f :128 ;
+    :di :103,
+        :92 ;
+    :di_oi_si :109 ;
+    :di_ov_fi :115 .
+
+:75 a owl:NamedIndividual ;
+    :a :116,
+        :123,
+        :94 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :113,
+        :92 ;
+    :a_d_oi_mi_f :107,
+        :112,
+        :125,
+        :79,
+        :81,
+        :86 ;
+    :a_di_oi_mi_si :124,
+        :126,
+        :96,
+        :97 ;
+    :a_oi_mi :104,
+        :114,
+        :117,
+        :122 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :88 ;
+    :d_di_ov_oi_s_si_f_fi_eq :102 ;
+    :d_oi_f :121 ;
+    :di_oi_si :91,
+        :99 .
+
+:87 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :116 ;
+    :b :108 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :112,
+        :129 ;
+    :b_d_ov_m_s :106,
+        :126,
+        :97 ;
+    :b_di_ov_m_fi :113 ;
+    :b_ov_m :102,
+        :115,
+        :119 ;
+    :d :114 ;
+    :d_ov_s :123 ;
+    :di_oi_si :107 ;
+    :di_ov_fi :93 ;
+    :m :91 ;
+    :ov :92 ;
+    :s :95 .
+
+:83 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :105 ;
+    :a_di_oi_mi_si :113,
+        :97 ;
+    :b :108 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :104,
+        :107,
+        :116,
+        :85,
+        :92 ;
+    :b_di_ov_m_fi :100,
+        :119,
+        :122,
+        :88 ;
+    :b_ov_m :128,
+        :84 ;
+    :d_di_ov_oi_s_si_f_fi_eq :111,
+        :121 ;
+    :di :94 ;
+    :di_oi_si :103 ;
+    :fi :123 ;
+    :ov :102,
+        :112,
+        :90 .
+
+:91 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :110,
+        :113,
+        :117,
+        :126 ;
+    :a_d_oi_mi_f :93 ;
+    :a_oi_mi :116,
+        :92 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :122,
+        :98 ;
+    :b_d_ov_m_s :99 ;
+    :b_di_ov_m_fi :105 ;
+    :d_di_ov_oi_s_si_f_fi_eq :124,
+        :96 ;
+    :d_oi_f :128 ;
+    :d_ov_s :125 ;
+    :di_oi_si :111 ;
+    :di_ov_fi :106 .
+
+:100 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :107 ;
+    :a_d_oi_mi_f :121 ;
+    :a_di_oi_mi_si :129 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :105 ;
+    :b_d_ov_m_s :119,
+        :123 ;
+    :b_ov_m :102,
+        :104,
+        :110,
+        :112 ;
+    :d :128 ;
+    :d_di_ov_oi_s_si_f_fi_eq :118 ;
+    :di_ov_fi :113,
+        :116 ;
+    :f :114 .
+
+:78 a owl:NamedIndividual ;
+    :a_d_oi_mi_f :79 ;
+    :a_di_oi_mi_si :123,
+        :127,
+        :93 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :118,
+        :122 ;
+    :b_di_ov_m_fi :89,
+        :99 ;
+    :d_di_ov_oi_s_si_f_fi_eq :114 ;
+    :d_oi_f :95 ;
+    :di :81 ;
+    :di_oi_si :80,
+        :96 ;
+    :di_ov_fi :106,
+        :117 ;
+    :si :103 .
+
+:80 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :118,
+        :81 ;
+    :a_di_oi_mi_si :111,
+        :114,
+        :82,
+        :87,
+        :96 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :108,
+        :98 ;
+    :b_di_ov_m_fi :117,
+        :127,
+        :99 ;
+    :b_ov_m :102,
+        :125,
+        :88 ;
+    :d_di_ov_oi_s_si_f_fi_eq :105,
+        :116,
+        :128,
+        :95 ;
+    :di_oi_si :119 ;
+    :mi :86 ;
+    :oi :122 .
+
+:84 a owl:NamedIndividual ;
+    :a :118,
+        :122 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :103 ;
+    :a_d_oi_mi_f :104,
+        :111,
+        :129 ;
+    :a_di_oi_mi_si :100,
+        :85 ;
+    :a_oi_mi :107,
+        :114,
+        :119 ;
+    :b_d_ov_m_s :101 ;
+    :b_ov_m :105 ;
+    :d :128,
+        :88 ;
+    :d_oi_f :102,
+        :106,
+        :95,
+        :98 ;
+    :d_ov_s :108 ;
+    :fi :90 .
+
+:90 a owl:NamedIndividual ;
+    :a :103,
+        :118,
+        :127,
+        :97 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :100,
+        :96 ;
+    :a_d_oi_mi_f :105,
+        :120,
+        :122,
+        :94 ;
+    :a_di_oi_mi_si :129 ;
+    :a_oi_mi :107 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :95 ;
+    :b_d_ov_m_s :106 ;
+    :d_di_ov_oi_s_si_f_fi_eq :115 ;
+    :d_ov_s :108 ;
+    :ov :101 .
+
+:99 a owl:NamedIndividual ;
+    :a_di_oi_mi_si :126,
+        :127 ;
+    :a_oi_mi :103,
+        :124 ;
+    :d_di_ov_oi_s_si_f_fi_eq :106,
+        :122,
+        :125 ;
+    :d_oi_f :100,
+        :109,
+        :128 ;
+    :di_oi_si :123 ;
+    :f_fi_eq :115 ;
+    :oi :114 ;
+    :ov :108 .
+
+:81 a owl:NamedIndividual ;
+    :a :120,
+        :129,
+        :87 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :102,
+        :106,
+        :128 ;
+    :a_d_oi_mi_f :103 ;
+    :a_di_oi_mi_si :86 ;
+    :a_oi_mi :85 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :116,
+        :119 ;
+    :b_d_ov_m_s :118,
+        :88,
+        :91,
+        :93 ;
+    :b_di_ov_m_fi :104 ;
+    :b_ov_m :117 ;
+    :d :124 ;
+    :d_oi_f :100,
+        :83 .
+
+:85 a owl:NamedIndividual ;
+    :b :105,
+        :116,
+        :118 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :112 ;
+    :b_d_ov_m_s :102,
+        :106,
+        :108,
+        :127,
+        :92,
+        :96 ;
+    :b_di_ov_m_fi :107,
+        :110,
+        :113,
+        :126,
+        :129,
+        :91 ;
+    :b_ov_m :111 ;
+    :d_oi_f :114 .
+
+:92 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :110 ;
+    :a_d_oi_mi_f :111 ;
+    :a_di_oi_mi_si :107,
+        :120 ;
+    :b :108 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :128 ;
+    :b_d_ov_m_s :100,
+        :104,
+        :129 ;
+    :d_di_ov_oi_s_si_f_fi_eq :115 ;
+    :d_oi_f :121 ;
+    :d_ov_s :102,
+        :99 ;
+    :s :103 .
+
+:101 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :102,
+        :109,
+        :111,
+        :116,
+        :117 ;
+    :a_d_oi_mi_f :113,
+        :114,
+        :124 ;
+    :a_oi_mi :125 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :108 ;
+    :oi :128 .
+
+:86 a owl:NamedIndividual ;
+    :b :110,
+        :112,
+        :120,
+        :92 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :127,
+        :88 ;
+    :b_d_ov_m_s :106,
+        :90 ;
+    :b_di_ov_m_fi :105,
+        :108,
+        :129,
+        :97 ;
+    :b_ov_m :123 ;
+    :d_ov_s :111 ;
+    :di :107 ;
+    :ov :124 ;
+    :s :121 .
+
+:110 a owl:NamedIndividual ;
+    :a_d_oi_mi_f :113 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :122,
+        :129 ;
+    :b_d_ov_m_s :111 .
+
+:88 a owl:NamedIndividual ;
+    :a :100,
+        :107,
+        :116 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :108,
+        :119 ;
+    :a_oi_mi :111,
+        :112,
+        :114,
+        :118,
+        :120,
+        :122 ;
+    :d_di_ov_oi_s_si_f_fi_eq :125 ;
+    :d_ov_s :106 ;
+    :di_oi_si :115,
+        :128 ;
+    :mi :89 ;
+    :oi :117 .
+
+:94 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :113 ;
+    :a_d_oi_mi_f :114 ;
+    :a_di_oi_mi_si :109 ;
+    :a_oi_mi :124,
+        :127 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :102 ;
+    :b_d_ov_m_s :112,
+        :125 ;
+    :b_ov_m :108 ;
+    :d_di_ov_oi_s_si_f_fi_eq :123,
+        :126 ;
+    :d_oi_f :118 ;
+    :d_ov_s :99 ;
+    :di_oi_si :111 .
+
+:104 a owl:NamedIndividual ;
+    :a :119 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :126 ;
+    :a_d_oi_mi_f :111,
+        :127 ;
+    :a_di_oi_mi_si :118 ;
+    :b_ov_m :105 ;
+    :d_oi_f :121 ;
+    :d_ov_s :115 ;
+    :oi :117 .
+
+:116 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :124 ;
+    :b :125 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :127 ;
+    :d :128 ;
+    :d_di_ov_oi_s_si_f_fi_eq :118,
+        :123 ;
+    :d_ov_s :121 .
+
+:79 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :87 ;
+    :a_d_oi_mi_f :128,
+        :86 ;
+    :b :104,
+        :117,
+        :80,
+        :81,
+        :93 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :114,
+        :123,
+        :125,
+        :88 ;
+    :b_d_ov_m_s :103,
+        :106 ;
+    :b_di_ov_m_fi :94,
+        :97 ;
+    :b_ov_m :101,
+        :102,
+        :105,
+        :112,
+        :127 .
+
+:95 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :102,
+        :115,
+        :98 ;
+    :d_di_ov_oi_s_si_f_fi_eq :109,
+        :122 ;
+    :di_oi_si :103,
+        :128 ;
+    :di_ov_fi :100,
+        :127 ;
+    :fi :105 .
+
+:96 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :120,
+        :121 ;
+    :a_di_oi_mi_si :127 ;
+    :a_oi_mi :109 ;
+    :b :101 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :105,
+        :106,
+        :108,
+        :125 ;
+    :b_ov_m :104 ;
+    :d_di_ov_oi_s_si_f_fi_eq :98 .
+
+:106 a owl:NamedIndividual ;
+    :d_di_ov_oi_s_si_f_fi_eq :125 ;
+    :d_oi_f :126,
+        :127 ;
+    :di_ov_fi :119 ;
+    :mi :109 ;
+    :si :115 .
+
+:111 a owl:NamedIndividual ;
+    :a_di_oi_mi_si :113,
+        :122 ;
+    :b :117 ;
+    :d_ov_s :116 ;
+    :di :129 ;
+    :di_oi_si :124,
+        :127 ;
+    :di_ov_fi :115,
+        :120,
+        :126 ;
+    :oi :114 .
+
+:119 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :122,
+        :126 ;
+    :d_oi_f :121 .
+
+:98 a owl:NamedIndividual ;
+    :a :107 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :101,
+        :110 ;
+    :a_di_oi_mi_si :114,
+        :126 ;
+    :b_di_ov_m_fi :118 ;
+    :d_ov_s :115 ;
+    :di_oi_si :121,
+        :122 ;
+    :di_ov_fi :120 ;
+    :fi :104 ;
+    :ov :112 .
+
+:125 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :127 .
+
+:109 a owl:NamedIndividual ;
+    :a_d_oi_mi_f :113 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :125,
+        :128 ;
+    :b_d_ov_m_s :110,
+        :115 ;
+    :di_ov_fi :118,
+        :129 .
+
+:118 a owl:NamedIndividual ;
+    :a_d_oi_mi_f :123 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :126,
+        :128 ;
+    :b_ov_m :125 ;
+    :d_di_ov_oi_s_si_f_fi_eq :121 ;
+    :oi :124 .
+
+:122 a owl:NamedIndividual ;
+    :d :128 ;
+    :ov :126 .
+
+:124 a owl:NamedIndividual ;
+    :d_di_ov_oi_s_si_f_fi_eq :129 ;
+    :di_ov_fi :127 .
+
+:102 a owl:NamedIndividual ;
+    :a :107,
+        :113 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :121 ;
+    :b_d_ov_m_s :112 ;
+    :d_di_ov_oi_s_si_f_fi_eq :111,
+        :115 ;
+    :di_ov_fi :108 ;
+    :oi :124 .
+
+:97 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :107,
+        :120 ;
+    :a_d_oi_mi_f :113 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :101 ;
+    :b_d_ov_m_s :112,
+        :117,
+        :99 ;
+    :d :100 ;
+    :d_di_ov_oi_s_si_f_fi_eq :114 ;
+    :d_ov_s :110 ;
+    :di_oi_si :122 ;
+    :ov :102,
+        :126 .
+
+:103 a owl:NamedIndividual ;
+    :a_d_oi_mi_f :107,
+        :116,
+        :123 ;
+    :a_oi_mi :129 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :105,
+        :109,
+        :125,
+        :127 ;
+    :b_ov_m :108 ;
+    :d :118 ;
+    :oi :122 ;
+    :ov :110,
+        :115 .
+
+:107 a owl:NamedIndividual ;
+    :b :119,
+        :129 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :110,
+        :113,
+        :115,
+        :127,
+        :128 ;
+    :b_di_ov_m_fi :117 ;
+    :d_oi_f :121 .
+
+:112 a owl:NamedIndividual ;
+    :a_d_oi_mi_f :127 ;
+    :a_di_oi_mi_si :114 ;
+    :a_oi_mi :113,
+        :120 ;
+    :d_di_ov_oi_s_si_f_fi_eq :125 ;
+    :f :128 .
+
+:120 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :121 ;
+    :b :126 ;
+    :d_oi_f :128 ;
+    :d_ov_s :124 ;
+    :di_ov_fi :123 .
+
+:121 a owl:NamedIndividual ;
+    :di :123,
+        :124 ;
+    :ov :125 .
+
+:126 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :127 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :129 .
+
+:108 a owl:NamedIndividual ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :116,
+        :119 ;
+    :a_d_oi_mi_f :117,
+        :122 ;
+    :a_di_oi_mi_si :113 ;
+    :a_oi_mi :109 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :112 ;
+    :b_di_ov_m_fi :125 ;
+    :d_di_ov_oi_s_si_f_fi_eq :128 .
+
+:129 a owl:NamedIndividual .
+
+:115 a owl:NamedIndividual ;
+    :a_d_oi_mi_f :121 .
+
+:113 a owl:NamedIndividual ;
+    :a_d_oi_mi_f :122 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :117 ;
+    :b_d_ov_m_s :115 .
+
+:117 a owl:NamedIndividual ;
+    :a :120 ;
+    :a_d_oi_mi_f :121 ;
+    :b :125 ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :128 .
+
+:127 a owl:NamedIndividual ;
+    :d_di_ov_oi_s_si_f_fi_eq :129 ;
+    :d_ov_s :128 .
+
+:128 a owl:NamedIndividual .
+
+:114 a owl:NamedIndividual ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :117,
+        :123 ;
+    :b_d_ov_m_s :125,
+        :127 .
+
+:105 a owl:NamedIndividual ;
+    :a :124 ;
+    :a_d_di_ov_oi_mi_s_si_f_fi_eq :110 ;
+    :a_d_oi_mi_f :119 ;
+    :a_di_oi_mi_si :114,
+        :117 .
+
+:123 a owl:NamedIndividual ;
+    :b_d_di_ov_oi_m_s_si_f_fi_eq :127 .
+

@@ -1,0 +1,200 @@
+@prefix : <http://www.ibm.com/timex#> .
+@prefix v: <http://ex.org/variable#> .
+
+v:0 :b v:16,
+        v:26 ;
+    :b_m_o v:3 ;
+    :b_m_o_d_s v:17,
+        v:29 ;
+    :b_m_o_di_fi v:32 ;
+    :d v:35 ;
+    :eq_o_oi_d_di_s_si_f_fi v:10 ;
+    :m v:18,
+        v:37 ;
+    :mi v:19 ;
+    :o_di_fi v:9 .
+
+v:1 :bi_mi_oi v:16,
+        v:35,
+        v:38 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:3 ;
+    :eq_bi_mi_o_oi_d_di_s_si_f_fi v:13,
+        v:33 ;
+    :mi v:7 ;
+    :oi v:14 .
+
+v:11 :b_m_o_d_s v:21 ;
+    :bi_mi_oi_d_f v:37 ;
+    :bi_mi_oi_di_si v:33 ;
+    :eq v:36 ;
+    :eq_bi_mi_o_oi_d_di_s_si_f_fi v:30 ;
+    :oi_di_si v:34 ;
+    :s v:27 .
+
+v:2 :b v:25,
+        v:38 ;
+    :b_m_o v:15,
+        v:33 ;
+    :b_m_o_d_s v:28 ;
+    :b_m_o_di_fi v:3 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:16 ;
+    :m v:19 ;
+    :o_di_fi v:35 .
+
+v:4 :bi v:19,
+        v:22,
+        v:37 ;
+    :bi_mi_oi_d_f v:14,
+        v:21,
+        v:26,
+        v:36 ;
+    :bi_mi_oi_di_si v:17 ;
+    :d v:25 ;
+    :mi v:12 .
+
+v:5 :bi v:13 ;
+    :bi_mi_oi_di_si v:22,
+        v:37 ;
+    :eq_f_fi v:21 ;
+    :f v:29,
+        v:6 ;
+    :mi v:20,
+        v:7 .
+
+v:31 :eq_bi_mi_o_oi_d_di_s_si_f_fi v:37 ;
+    :si v:39 .
+
+v:8 :bi_mi_oi_d_f v:28 ;
+    :bi_mi_oi_di_si v:27 ;
+    :eq_o_oi_d_di_s_si_f_fi v:15 ;
+    :mi v:37 ;
+    :o_di_fi v:38 .
+
+v:10 :di v:16 ;
+    :eq_bi_mi_o_oi_d_di_s_si_f_fi v:13 ;
+    :oi_di_si v:22 .
+
+v:12 :b v:34 ;
+    :b_m_o_d_s v:39 ;
+    :bi_mi_oi_d_f v:30 ;
+    :eq_bi_mi_o_oi_d_di_s_si_f_fi v:29 ;
+    :o v:21 ;
+    :o_di_fi v:16 ;
+    :oi v:18 ;
+    :oi_d_f v:14 .
+
+v:18 :b_m_o v:31 .
+
+v:20 :b_m_o_d_s v:32 ;
+    :bi_mi_oi_d_f v:27 ;
+    :eq_bi_mi_o_oi_d_di_s_si_f_fi v:33 ;
+    :mi v:22 ;
+    :o_d_s v:29 ;
+    :s v:26 ;
+    :si v:25 .
+
+v:6 :eq_b_m_o_oi_d_di_s_si_f_fi v:27 ;
+    :eq_bi_mi_o_oi_d_di_s_si_f_fi v:37 ;
+    :eq_o_oi_d_di_s_si_f_fi v:12 ;
+    :si v:26 .
+
+v:9 :b v:15 ;
+    :b_m_o_d_s v:25 ;
+    :oi_d_f v:35 .
+
+v:14 :bi_mi_oi_di_si v:24 ;
+    :oi_d_f v:28 ;
+    :s v:32 .
+
+v:24 :eq_b_m_o_oi_d_di_s_si_f_fi v:32 ;
+    :mi v:25 .
+
+v:3 :b_m_o_d_s v:23 ;
+    :b_m_o_di_fi v:13 ;
+    :d v:36 ;
+    :o_di_fi v:6 ;
+    :oi_di_si v:7 .
+
+v:7 :b_m_o v:23 ;
+    :b_m_o_di_fi v:19,
+        v:22,
+        v:35 ;
+    :bi_mi_oi v:10 ;
+    :bi_mi_oi_di_si v:9 ;
+    :fi v:20 ;
+    :o_d_s v:24 ;
+    :o_di_fi v:8 ;
+    :oi_di_si v:15 .
+
+v:13 :b v:15,
+        v:33 ;
+    :b_m_o v:28 ;
+    :b_m_o_di_fi v:22 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:29 ;
+    :m v:23 .
+
+v:17 :di v:38 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:34 ;
+    :eq_o_oi_d_di_s_si_f_fi v:30 .
+
+v:19 :b_m_o_d_s v:37,
+        v:39 .
+
+v:26 :bi_mi_oi v:38 ;
+    :eq_f_fi v:34 ;
+    :f v:28 .
+
+v:36 :bi_mi_oi_di_si v:39 .
+
+v:15 :b_m_o_d_s v:24 ;
+    :bi_mi_oi v:16 ;
+    :bi_mi_oi_di_si v:17 ;
+    :eq_bi_mi_o_oi_d_di_s_si_f_fi v:21 ;
+    :eq_o_oi_d_di_s_si_f_fi v:28 ;
+    :s v:34 .
+
+v:21 :bi v:37 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:38 ;
+    :o_di_fi v:29 .
+
+v:23 :b_m_o v:29,
+        v:39 ;
+    :eq_o_oi_d_di_s_si_f_fi v:27 .
+
+v:30 :eq_bi_mi_o_oi_d_di_s_si_f_fi v:36 ;
+    :o v:32 .
+
+v:32 :b_m_o_di_fi v:38 ;
+    :fi v:39 .
+
+v:35 :b_m_o_d_s v:37 ;
+    :b_m_o_di_fi v:39 .
+
+v:16 :bi v:17 ;
+    :eq_b_m_o_oi_d_di_s_si_f_fi v:27 ;
+    :eq_o_oi_d_di_s_si_f_fi v:30 ;
+    :m v:23 .
+
+v:22 :b_m_o_di_fi v:25 ;
+    :o v:30 ;
+    :o_di_fi v:23 ;
+    :oi_d_f v:27,
+        v:28 .
+
+v:25 :b v:34 ;
+    :eq_bi_mi_o_oi_d_di_s_si_f_fi v:27 ;
+    :eq_o_oi_d_di_s_si_f_fi v:29 ;
+    :si v:33 .
+
+v:33 :b_m_o_di_fi v:34 ;
+    :bi_mi_oi v:38 .
+
+v:34 :si v:39 .
+
+v:27 :b_m_o_di_fi v:33,
+        v:39 .
+
+v:38 :b v:39 .
+
+v:37 :b_m_o_di_fi v:38 .
+
